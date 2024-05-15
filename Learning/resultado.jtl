@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1715293402300,189,https://www.correios.com.br/,200,OK,Thread Group 1-128,text,true,,136122,122,166,166,https://www.correios.com.br/,106,0,64
+1715293402314,307,https://www.correios.com.br/,200,OK,Thread Group 1-131,text,true,,136122,122,192,192,https://www.correios.com.br/,97,0,60
+1715293402379,259,https://www.correios.com.br/,200,OK,Thread Group 1-144,text,true,,136121,122,195,195,https://www.correios.com.br/,85,0,61
+1715293402400,275,https://www.correios.com.br/,200,OK,Thread Group 1-148,text,true,,136122,122,200,200,https://www.correios.com.br/,96,0,61
+1715293402359,335,https://www.correios.com.br/,200,OK,Thread Group 1-140,text,true,,136120,122,200,200,https://www.correios.com.br/,84,0,60
+1715293402404,409,https://www.correios.com.br/,200,OK,Thread Group 1-149,text,true,,136122,122,200,200,https://www.correios.com.br/,327,0,302
+1715293402675,166,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-148,text,true,,186077,126,200,200,https://www.gov.br/fazenda/pt-br,80,0,54
+1715293402529,321,https://www.correios.com.br/,200,OK,Thread Group 1-174,text,true,,136121,122,200,200,https://www.correios.com.br/,85,0,59
+1715293402841,73,https://www.gov.br/,200,OK,Thread Group 1-148,text,true,,130832,231,200,200,https://www.gov.br/pt-br,25,0,0
+1715293402841,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-148,,true,,861,113,200,200,https://www.gov.br/,25,0,0
+1715293402867,47,https://www.gov.br/-1,200,OK,Thread Group 1-148,text,true,,129971,118,200,200,https://www.gov.br/pt-br,23,0,0
+1715293402563,427,https://www.correios.com.br/,200,OK,Thread Group 1-181,text,true,,136121,122,199,199,https://www.correios.com.br/,318,0,291
+1715293402570,460,https://www.correios.com.br/,200,OK,Thread Group 1-182,text,true,,136121,122,199,199,https://www.correios.com.br/,313,0,288
+1715293402329,721,https://www.correios.com.br/,200,OK,Thread Group 1-134,text,true,,136121,122,199,199,https://www.correios.com.br/,552,0,524
+1715293401845,1206,https://www.correios.com.br/,200,OK,Thread Group 1-37,text,true,,136122,122,199,199,https://www.correios.com.br/,962,0,932
+1715293401725,1372,https://www.correios.com.br/,200,OK,Thread Group 1-2,text,true,,136121,122,199,199,https://www.correios.com.br/,1081,0,1025
+1715293402991,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-181,text,true,,186079,126,199,199,https://www.gov.br/fazenda/pt-br,69,0,44
+1715293402594,513,https://www.correios.com.br/,200,OK,Thread Group 1-187,text,true,,136121,122,199,199,https://www.correios.com.br/,332,0,306
+1715293402046,1071,https://www.correios.com.br/,200,OK,Thread Group 1-77,text,true,,136122,122,199,199,https://www.correios.com.br/,761,0,731
+1715293402150,989,https://www.correios.com.br/,200,OK,Thread Group 1-96,text,true,,136121,122,199,199,https://www.correios.com.br/,881,0,857
+1715293403031,108,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-182,text,true,,186077,126,199,199,https://www.gov.br/fazenda/pt-br,68,0,44
+1715293401954,1191,https://www.correios.com.br/,200,OK,Thread Group 1-59,text,true,,136121,122,199,199,https://www.correios.com.br/,823,0,537
+1715293403101,46,https://www.gov.br/,200,OK,Thread Group 1-181,text,true,,130838,231,199,199,https://www.gov.br/pt-br,23,0,0
+1715293403101,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-181,,true,,861,113,199,199,https://www.gov.br/,23,0,0
+1715293403124,23,https://www.gov.br/-1,200,OK,Thread Group 1-181,text,true,,129977,118,199,199,https://www.gov.br/pt-br,22,0,0
+1715293401819,1382,https://www.correios.com.br/,200,OK,Thread Group 1-32,text,true,,136122,122,198,198,https://www.correios.com.br/,1214,0,947
+1715293401829,1424,https://www.correios.com.br/,200,OK,Thread Group 1-34,text,true,,136122,122,198,198,https://www.correios.com.br/,1218,0,1191
+1715293402127,1131,https://www.correios.com.br/,200,OK,Thread Group 1-91,text,true,,136122,122,198,198,https://www.correios.com.br/,952,0,680
+1715293402019,1264,https://www.correios.com.br/,200,OK,Thread Group 1-72,text,true,,136121,122,198,198,https://www.correios.com.br/,1057,0,1031
+1715293403140,146,https://www.gov.br/,200,OK,Thread Group 1-182,text,true,,130838,231,198,198,https://www.gov.br/pt-br,26,0,0
+1715293403140,26,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-182,,true,,861,113,198,198,https://www.gov.br/,26,0,0
+1715293403166,120,https://www.gov.br/-1,200,OK,Thread Group 1-182,text,true,,129977,118,198,198,https://www.gov.br/pt-br,22,0,0
+1715293402084,1207,https://www.correios.com.br/,200,OK,Thread Group 1-85,text,true,,136121,122,197,197,https://www.correios.com.br/,1003,0,980
+1715293403201,93,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-32,text,true,,186077,126,197,197,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293402125,1182,https://www.correios.com.br/,200,OK,Thread Group 1-90,text,true,,136122,122,197,197,https://www.correios.com.br/,972,0,682
+1715293403254,98,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-34,text,true,,186083,126,197,197,https://www.gov.br/fazenda/pt-br,73,0,45
+1715293403050,303,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-134,text,true,,186079,126,197,197,https://www.gov.br/fazenda/pt-br,70,0,44
+1715293403258,104,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-91,text,true,,186079,126,197,197,https://www.gov.br/fazenda/pt-br,78,0,45
+1715293403051,321,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-37,text,true,,186083,126,197,197,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293403353,48,https://www.gov.br/,200,OK,Thread Group 1-34,text,true,,130837,231,197,197,https://www.gov.br/pt-br,25,0,0
+1715293403353,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-34,,true,,861,113,197,197,https://www.gov.br/,25,0,0
+1715293403378,23,https://www.gov.br/-1,200,OK,Thread Group 1-34,text,true,,129976,118,197,197,https://www.gov.br/pt-br,22,0,0
+1715293403362,46,https://www.gov.br/,200,OK,Thread Group 1-91,text,true,,130838,231,196,196,https://www.gov.br/pt-br,22,0,0
+1715293403362,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-91,,true,,861,113,196,196,https://www.gov.br/,22,0,0
+1715293403384,24,https://www.gov.br/-1,200,OK,Thread Group 1-91,text,true,,129977,118,196,196,https://www.gov.br/pt-br,22,0,0
+1715293403294,166,https://www.gov.br/,200,OK,Thread Group 1-32,text,true,,130832,231,195,195,https://www.gov.br/pt-br,26,0,0
+1715293403294,26,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-32,,true,,861,113,195,195,https://www.gov.br/,26,0,0
+1715293403320,140,https://www.gov.br/-1,200,OK,Thread Group 1-32,text,true,,129971,118,195,195,https://www.gov.br/pt-br,23,0,0
+1715293401799,1664,https://www.correios.com.br/,200,OK,Thread Group 1-28,text,true,,136122,122,194,194,https://www.correios.com.br/,1278,0,1254
+1715293402230,1255,https://www.correios.com.br/,200,OK,Thread Group 1-114,text,true,,136121,122,194,194,https://www.correios.com.br/,1093,0,1068
+1715293402234,1268,https://www.correios.com.br/,200,OK,Thread Group 1-115,text,true,,136120,122,194,194,https://www.correios.com.br/,1089,0,1064
+1715293403353,162,https://www.gov.br/,200,OK,Thread Group 1-134,text,true,,130832,231,194,194,https://www.gov.br/pt-br,24,0,0
+1715293403353,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-134,,true,,861,113,194,194,https://www.gov.br/,24,0,0
+1715293403377,138,https://www.gov.br/-1,200,OK,Thread Group 1-134,text,true,,129971,118,194,194,https://www.gov.br/pt-br,22,0,0
+1715293402264,1266,https://www.correios.com.br/,200,OK,Thread Group 1-121,text,true,,136120,122,193,193,https://www.correios.com.br/,1101,0,1071
+1715293403372,163,https://www.gov.br/,200,OK,Thread Group 1-37,text,true,,130838,231,193,193,https://www.gov.br/pt-br,25,0,0
+1715293403372,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-37,,true,,861,113,193,193,https://www.gov.br/,25,0,0
+1715293403397,138,https://www.gov.br/-1,200,OK,Thread Group 1-37,text,true,,129977,118,193,193,https://www.gov.br/pt-br,22,0,0
+1715293403284,296,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-72,text,true,,186077,126,192,192,https://www.gov.br/fazenda/pt-br,82,0,52
+1715293403530,94,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-121,text,true,,186079,126,192,192,https://www.gov.br/fazenda/pt-br,68,0,44
+1715293403624,47,https://www.gov.br/,200,OK,Thread Group 1-121,text,true,,130838,231,192,192,https://www.gov.br/pt-br,24,0,0
+1715293403624,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-121,,true,,861,113,192,192,https://www.gov.br/,24,0,0
+1715293403648,23,https://www.gov.br/-1,200,OK,Thread Group 1-121,text,true,,129977,118,192,192,https://www.gov.br/pt-br,22,0,0
+1715293403581,143,https://www.gov.br/,200,OK,Thread Group 1-72,text,true,,130832,231,191,191,https://www.gov.br/pt-br,22,0,0
+1715293403581,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-72,,true,,861,113,191,191,https://www.gov.br/,22,0,0
+1715293403603,121,https://www.gov.br/-1,200,OK,Thread Group 1-72,text,true,,129971,118,191,191,https://www.gov.br/pt-br,22,0,0
+1715293402444,1486,https://www.correios.com.br/,200,OK,Thread Group 1-157,text,true,,136122,122,190,190,https://www.correios.com.br/,1318,0,1294
+1715293401725,2267,https://www.correios.com.br/,200,OK,Thread Group 1-1,text,true,,136122,122,190,190,https://www.correios.com.br/,755,0,717
+1715293402619,1425,https://www.correios.com.br/,200,OK,Thread Group 1-192,text,true,,136122,122,190,190,https://www.correios.com.br/,1322,0,1299
+1715293401949,2101,https://www.correios.com.br/,200,OK,Thread Group 1-58,text,true,,136121,122,190,190,https://www.correios.com.br/,1700,0,279
+1715293402140,1913,https://www.correios.com.br/,200,OK,Thread Group 1-94,text,true,,136122,122,190,190,https://www.correios.com.br/,1533,0,85
+1715293401899,2157,https://www.correios.com.br/,200,OK,Thread Group 1-48,text,true,,136121,122,190,190,https://www.correios.com.br/,1784,0,327
+1715293402624,1434,https://www.correios.com.br/,200,OK,Thread Group 1-193,text,true,,136122,122,190,190,https://www.correios.com.br/,1324,0,1296
+1715293401936,2126,https://www.correios.com.br/,200,OK,Thread Group 1-55,text,true,,136121,122,190,190,https://www.correios.com.br/,1711,0,295
+1715293402071,1994,https://www.correios.com.br/,200,OK,Thread Group 1-80,text,true,,136122,122,190,190,https://www.correios.com.br/,1596,0,410
+1715293402544,1539,https://www.correios.com.br/,200,OK,Thread Group 1-177,text,true,,136121,122,190,190,https://www.correios.com.br/,177,0,61
+1715293401994,2114,https://www.correios.com.br/,200,OK,Thread Group 1-67,text,true,,136121,122,190,190,https://www.correios.com.br/,1675,0,231
+1715293402654,1466,https://www.correios.com.br/,200,OK,Thread Group 1-199,text,true,,136122,122,190,190,https://www.correios.com.br/,95,0,67
+1715293401789,2342,https://www.correios.com.br/,200,OK,Thread Group 1-26,text,true,,136122,122,190,190,https://www.correios.com.br/,1008,0,960
+1715293402039,2095,https://www.correios.com.br/,200,OK,Thread Group 1-76,text,true,,136122,122,190,190,https://www.correios.com.br/,1633,0,186
+1715293401854,2290,https://www.correios.com.br/,200,OK,Thread Group 1-39,text,true,,136121,122,190,190,https://www.correios.com.br/,1829,0,622
+1715293402150,2009,https://www.correios.com.br/,200,OK,Thread Group 1-97,text,true,,136122,122,190,190,https://www.correios.com.br/,1523,0,323
+1715293401974,2201,https://www.correios.com.br/,200,OK,Thread Group 1-63,text,true,,136121,122,190,190,https://www.correios.com.br/,1714,0,506
+1715293402658,1518,https://www.correios.com.br/,200,OK,Thread Group 1-200,text,true,,136122,122,190,190,https://www.correios.com.br/,1292,0,84
+1715293402035,2155,https://www.correios.com.br/,200,OK,Thread Group 1-75,text,true,,136122,122,190,190,https://www.correios.com.br/,725,0,461
+1715293401960,2238,https://www.correios.com.br/,200,OK,Thread Group 1-60,text,true,,136120,122,190,190,https://www.correios.com.br/,1804,0,521
+1715293402123,2092,https://www.correios.com.br/,200,OK,Thread Group 1-93,text,true,,136121,122,190,190,https://www.correios.com.br/,814,0,374
+1715293402334,1886,https://www.correios.com.br/,200,OK,Thread Group 1-135,text,true,,136121,122,190,190,https://www.correios.com.br/,620,0,516
+1715293402695,1526,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-140,text,true,,186083,126,190,190,https://www.gov.br/fazenda/pt-br,1233,0,51
+1715293401824,2398,https://www.correios.com.br/,200,OK,Thread Group 1-33,text,true,,136121,122,190,190,https://www.correios.com.br/,2121,0,673
+1715293402005,2228,https://www.correios.com.br/,200,OK,Thread Group 1-69,text,true,,136122,122,190,190,https://www.correios.com.br/,1672,0,226
+1715293401834,2436,https://www.correios.com.br/,200,OK,Thread Group 1-35,text,true,,136121,122,190,190,https://www.correios.com.br/,891,0,840
+1715293404051,227,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-58,text,true,,186077,126,190,190,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293403145,1138,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-59,text,true,,186079,126,190,190,https://www.gov.br/fazenda/pt-br,1078,0,1053
+1715293404045,238,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-192,text,true,,186079,126,190,190,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293403931,353,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-157,text,true,,186083,126,190,190,https://www.gov.br/fazenda/pt-br,111,0,66
+1715293402324,1963,https://www.correios.com.br/,200,OK,Thread Group 1-133,text,true,,136121,122,190,190,https://www.correios.com.br/,629,0,523
+1715293404159,131,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-97,text,true,,186077,126,190,190,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293404176,130,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-63,text,true,,186083,126,190,190,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293404176,136,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-200,text,true,,186079,126,190,190,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293402305,2012,https://www.correios.com.br/,200,OK,Thread Group 1-129,text,true,,136121,122,190,190,https://www.correios.com.br/,1726,0,566
+1715293404054,275,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-94,text,true,,186083,126,190,190,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293404198,131,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-60,text,true,,186083,126,190,190,https://www.gov.br/fazenda/pt-br,70,0,44
+1715293404190,141,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-75,text,true,,186077,126,190,190,https://www.gov.br/fazenda/pt-br,79,0,43
+1715293404283,67,https://www.gov.br/,200,OK,Thread Group 1-59,text,true,,130838,231,190,190,https://www.gov.br/pt-br,24,0,0
+1715293404283,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-59,,true,,861,113,190,190,https://www.gov.br/,24,0,0
+1715293404307,43,https://www.gov.br/-1,200,OK,Thread Group 1-59,text,true,,129977,118,190,190,https://www.gov.br/pt-br,23,0,0
+1715293404290,65,https://www.gov.br/,200,OK,Thread Group 1-97,text,true,,130838,231,189,189,https://www.gov.br/pt-br,22,0,0
+1715293404290,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-97,,true,,861,113,189,189,https://www.gov.br/,22,0,0
+1715293404312,43,https://www.gov.br/-1,200,OK,Thread Group 1-97,text,true,,129977,118,189,189,https://www.gov.br/pt-br,22,0,0
+1715293404220,138,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-135,text,true,,186077,126,188,188,https://www.gov.br/fazenda/pt-br,77,0,50
+1715293404306,64,https://www.gov.br/,200,OK,Thread Group 1-63,text,true,,130832,231,188,188,https://www.gov.br/pt-br,23,0,0
+1715293404306,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-63,,true,,861,113,188,188,https://www.gov.br/,23,0,0
+1715293404329,41,https://www.gov.br/-1,200,OK,Thread Group 1-63,text,true,,129971,118,188,188,https://www.gov.br/pt-br,21,0,0
+1715293404312,65,https://www.gov.br/,200,OK,Thread Group 1-200,text,true,,130838,231,187,187,https://www.gov.br/pt-br,22,0,0
+1715293404312,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-200,,true,,861,113,187,187,https://www.gov.br/,22,0,0
+1715293404334,43,https://www.gov.br/-1,200,OK,Thread Group 1-200,text,true,,129977,118,187,187,https://www.gov.br/pt-br,23,0,0
+1715293401939,2451,https://www.correios.com.br/,200,OK,Thread Group 1-56,text,true,,136121,122,186,186,https://www.correios.com.br/,2055,0,552
+1715293404329,65,https://www.gov.br/,200,OK,Thread Group 1-60,text,true,,130837,231,186,186,https://www.gov.br/pt-br,23,0,0
+1715293404329,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-60,,true,,861,113,186,186,https://www.gov.br/,23,0,0
+1715293404352,42,https://www.gov.br/-1,200,OK,Thread Group 1-60,text,true,,129976,118,186,186,https://www.gov.br/pt-br,22,0,0
+1715293402575,1829,https://www.correios.com.br/,200,OK,Thread Group 1-183,text,true,,136121,122,185,185,https://www.correios.com.br/,1432,0,1407
+1715293404278,126,https://www.gov.br/,200,OK,Thread Group 1-58,text,true,,130832,231,185,185,https://www.gov.br/pt-br,23,0,0
+1715293404278,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-58,,true,,861,113,185,185,https://www.gov.br/,23,0,0
+1715293404301,103,https://www.gov.br/-1,200,OK,Thread Group 1-58,text,true,,129971,118,185,185,https://www.gov.br/pt-br,21,0,0
+1715293404270,134,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-35,text,true,,186077,126,185,185,https://www.gov.br/fazenda/pt-br,70,0,45
+1715293404215,189,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-93,text,true,,186079,126,185,185,https://www.gov.br/fazenda/pt-br,69,0,45
+1715293404222,190,https://www.gov.br/,200,OK,Thread Group 1-140,text,true,,130838,231,184,184,https://www.gov.br/pt-br,22,0,0
+1715293404222,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-140,,true,,861,113,184,184,https://www.gov.br/,22,0,0
+1715293404244,168,https://www.gov.br/-1,200,OK,Thread Group 1-140,text,true,,129977,118,184,184,https://www.gov.br/pt-br,26,0,0
+1715293404358,66,https://www.gov.br/,200,OK,Thread Group 1-135,text,true,,130838,231,183,183,https://www.gov.br/pt-br,23,0,0
+1715293404358,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-135,,true,,861,113,183,183,https://www.gov.br/,23,0,0
+1715293404381,43,https://www.gov.br/-1,200,OK,Thread Group 1-135,text,true,,129977,118,183,183,https://www.gov.br/pt-br,22,0,0
+1715293404283,146,https://www.gov.br/,200,OK,Thread Group 1-192,text,true,,130832,231,182,182,https://www.gov.br/pt-br,23,0,0
+1715293404283,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-192,,true,,861,113,182,182,https://www.gov.br/,23,0,0
+1715293404306,123,https://www.gov.br/-1,200,OK,Thread Group 1-192,text,true,,129971,118,182,182,https://www.gov.br/pt-br,22,0,0
+1715293404284,149,https://www.gov.br/,200,OK,Thread Group 1-157,text,true,,130838,231,181,181,https://www.gov.br/pt-br,23,0,0
+1715293404284,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-157,,true,,861,113,181,181,https://www.gov.br/,23,0,0
+1715293404307,126,https://www.gov.br/-1,200,OK,Thread Group 1-157,text,true,,129977,118,181,181,https://www.gov.br/pt-br,22,0,0
+1715293404056,378,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-48,text,true,,186079,126,180,180,https://www.gov.br/fazenda/pt-br,145,0,43
+1715293404317,131,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-129,text,true,,186083,126,180,180,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293404329,124,https://www.gov.br/,200,OK,Thread Group 1-94,text,true,,130832,231,180,180,https://www.gov.br/pt-br,23,0,0
+1715293404329,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-94,,true,,861,113,180,180,https://www.gov.br/,23,0,0
+1715293404352,101,https://www.gov.br/-1,200,OK,Thread Group 1-94,text,true,,129971,118,180,180,https://www.gov.br/pt-br,22,0,0
+1715293404223,235,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-33,text,true,,186083,126,179,179,https://www.gov.br/fazenda/pt-br,76,0,50
+1715293404404,67,https://www.gov.br/,200,OK,Thread Group 1-35,text,true,,130837,231,179,179,https://www.gov.br/pt-br,24,0,0
+1715293404404,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-35,,true,,861,113,179,179,https://www.gov.br/,24,0,0
+1715293404428,43,https://www.gov.br/-1,200,OK,Thread Group 1-35,text,true,,129976,118,179,179,https://www.gov.br/pt-br,22,0,0
+1715293404233,250,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-69,text,true,,186079,126,178,178,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293404391,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-56,text,true,,186077,126,178,178,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293404404,107,https://www.gov.br/,200,OK,Thread Group 1-93,text,true,,130832,231,178,178,https://www.gov.br/pt-br,23,0,0
+1715293404404,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-93,,true,,861,113,178,178,https://www.gov.br/,23,0,0
+1715293404427,84,https://www.gov.br/-1,200,OK,Thread Group 1-93,text,true,,129971,118,178,178,https://www.gov.br/pt-br,22,0,0
+1715293404448,66,https://www.gov.br/,200,OK,Thread Group 1-129,text,true,,130838,231,177,177,https://www.gov.br/pt-br,23,0,0
+1715293404448,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-129,,true,,861,113,177,177,https://www.gov.br/,23,0,0
+1715293404471,43,https://www.gov.br/-1,200,OK,Thread Group 1-129,text,true,,129977,118,177,177,https://www.gov.br/pt-br,23,0,0
+1715293404404,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-183,text,true,,186083,126,176,176,https://www.gov.br/fazenda/pt-br,70,0,46
+1715293402225,2294,https://www.correios.com.br/,200,OK,Thread Group 1-113,text,true,,136122,122,176,176,https://www.correios.com.br/,1099,0,1072
+1715293404500,65,https://www.gov.br/,200,OK,Thread Group 1-56,text,true,,130838,231,176,176,https://www.gov.br/pt-br,23,0,0
+1715293404500,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-56,,true,,861,113,176,176,https://www.gov.br/,23,0,0
+1715293404523,42,https://www.gov.br/-1,200,OK,Thread Group 1-56,text,true,,129977,118,176,176,https://www.gov.br/pt-br,23,0,0
+1715293404458,126,https://www.gov.br/,200,OK,Thread Group 1-33,text,true,,130838,231,175,175,https://www.gov.br/pt-br,23,0,0
+1715293404458,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-33,,true,,861,113,175,175,https://www.gov.br/,23,0,0
+1715293404482,102,https://www.gov.br/-1,200,OK,Thread Group 1-33,text,true,,129977,118,175,175,https://www.gov.br/pt-br,22,0,0
+1715293404434,183,https://www.gov.br/,200,OK,Thread Group 1-48,text,true,,130832,231,174,174,https://www.gov.br/pt-br,24,0,0
+1715293404434,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-48,,true,,861,113,174,174,https://www.gov.br/,24,0,0
+1715293404458,159,https://www.gov.br/-1,200,OK,Thread Group 1-48,text,true,,129971,118,174,174,https://www.gov.br/pt-br,22,0,0
+1715293404516,102,https://www.gov.br/,200,OK,Thread Group 1-183,text,true,,130838,231,173,173,https://www.gov.br/pt-br,23,0,0
+1715293404516,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-183,,true,,861,113,173,173,https://www.gov.br/,23,0,0
+1715293404539,79,https://www.gov.br/-1,200,OK,Thread Group 1-183,text,true,,129977,118,173,173,https://www.gov.br/pt-br,21,0,0
+1715293404519,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-113,text,true,,186077,126,172,172,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293404483,204,https://www.gov.br/,200,OK,Thread Group 1-69,text,true,,130838,231,172,172,https://www.gov.br/pt-br,23,0,0
+1715293404483,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-69,,true,,861,113,172,172,https://www.gov.br/,23,0,0
+1715293404506,181,https://www.gov.br/-1,200,OK,Thread Group 1-69,text,true,,129977,118,172,172,https://www.gov.br/pt-br,22,0,0
+1715293404629,66,https://www.gov.br/,200,OK,Thread Group 1-113,text,true,,130832,231,171,171,https://www.gov.br/pt-br,25,0,0
+1715293404629,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-113,,true,,861,113,171,171,https://www.gov.br/,25,0,0
+1715293404654,41,https://www.gov.br/-1,200,OK,Thread Group 1-113,text,true,,129971,118,171,171,https://www.gov.br/pt-br,22,0,0
+1715293404331,375,https://www.gov.br/,200,OK,Thread Group 1-75,text,true,,130838,231,170,170,https://www.gov.br/pt-br,271,0,0
+1715293404331,271,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-75,,true,,861,113,170,170,https://www.gov.br/,271,0,0
+1715293404602,104,https://www.gov.br/-1,200,OK,Thread Group 1-75,text,true,,129977,118,170,170,https://www.gov.br/pt-br,23,0,0
+1715293403308,1399,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-90,text,true,,186079,126,169,169,https://www.gov.br/fazenda/pt-br,1159,0,1114
+1715293402254,2461,https://www.correios.com.br/,200,OK,Thread Group 1-119,text,true,,136121,122,169,169,https://www.correios.com.br/,1111,0,1081
+1715293404062,670,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-55,text,true,,186079,126,169,169,https://www.gov.br/fazenda/pt-br,609,0,584
+1715293402260,2513,https://www.correios.com.br/,200,OK,Thread Group 1-120,text,true,,136121,122,169,169,https://www.correios.com.br/,1102,0,1075
+1715293404732,65,https://www.gov.br/,200,OK,Thread Group 1-55,text,true,,130832,231,169,169,https://www.gov.br/pt-br,23,0,0
+1715293404732,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-55,,true,,861,113,169,169,https://www.gov.br/,23,0,0
+1715293404755,42,https://www.gov.br/-1,200,OK,Thread Group 1-55,text,true,,129971,118,169,169,https://www.gov.br/pt-br,22,0,0
+1715293404716,114,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-119,text,true,,186083,126,168,168,https://www.gov.br/fazenda/pt-br,69,0,45
+1715293401903,2947,https://www.correios.com.br/,200,OK,Thread Group 1-49,text,true,,136122,122,168,168,https://www.correios.com.br/,2372,0,904
+1715293403463,1395,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-28,text,true,,186083,126,168,168,https://www.gov.br/fazenda/pt-br,1148,0,1104
+1715293404707,163,https://www.gov.br/,200,OK,Thread Group 1-90,text,true,,130838,231,168,168,https://www.gov.br/pt-br,23,0,0
+1715293404707,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-90,,true,,861,113,168,168,https://www.gov.br/,23,0,0
+1715293404730,140,https://www.gov.br/-1,200,OK,Thread Group 1-90,text,true,,129977,118,168,168,https://www.gov.br/pt-br,23,0,0
+1715293404774,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-120,text,true,,186079,126,167,167,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293402268,2618,https://www.correios.com.br/,200,OK,Thread Group 1-122,text,true,,136121,122,167,167,https://www.correios.com.br/,2266,0,1074
+1715293404884,48,https://www.gov.br/,200,OK,Thread Group 1-120,text,true,,130838,231,167,167,https://www.gov.br/pt-br,23,0,0
+1715293404884,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-120,,true,,861,113,167,167,https://www.gov.br/,23,0,0
+1715293404907,25,https://www.gov.br/-1,200,OK,Thread Group 1-120,text,true,,129977,118,167,167,https://www.gov.br/pt-br,24,0,0
+1715293404830,105,https://www.gov.br/,200,OK,Thread Group 1-119,text,true,,130832,231,166,166,https://www.gov.br/pt-br,23,0,0
+1715293404830,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-119,,true,,861,113,166,166,https://www.gov.br/,23,0,0
+1715293404853,82,https://www.gov.br/-1,200,OK,Thread Group 1-119,text,true,,129971,118,166,166,https://www.gov.br/pt-br,23,0,0
+1715293402289,2653,https://www.correios.com.br/,200,OK,Thread Group 1-126,text,true,,136122,122,165,165,https://www.correios.com.br/,2260,0,75
+1715293401725,3282,https://www.correios.com.br/,200,OK,Thread Group 1-7,text,true,,136122,122,165,165,https://www.correios.com.br/,2968,0,753
+1715293402389,2648,https://www.correios.com.br/,200,OK,Thread Group 1-146,text,true,,136121,122,165,165,https://www.correios.com.br/,1099,0,1073
+1715293401726,3312,https://www.correios.com.br/,200,OK,Thread Group 1-13,text,true,,136122,122,165,165,https://www.correios.com.br/,2800,0,498
+1715293401725,3315,https://www.correios.com.br/,200,OK,Thread Group 1-3,text,true,,136122,122,165,165,https://www.correios.com.br/,1907,0,499
+1715293401925,3127,https://www.correios.com.br/,200,OK,Thread Group 1-53,text,true,,136122,122,165,165,https://www.correios.com.br/,2794,0,300
+1715293404942,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-126,text,true,,186083,126,165,165,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293401759,3303,https://www.correios.com.br/,200,OK,Thread Group 1-20,text,true,,136122,122,165,165,https://www.correios.com.br/,1925,0,471
+1715293404858,208,https://www.gov.br/,200,OK,Thread Group 1-28,text,true,,130832,231,165,165,https://www.gov.br/pt-br,23,0,0
+1715293404858,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-28,,true,,861,113,165,165,https://www.gov.br/,23,0,0
+1715293404881,185,https://www.gov.br/-1,200,OK,Thread Group 1-28,text,true,,129971,118,165,165,https://www.gov.br/pt-br,22,0,0
+1715293402113,2962,https://www.correios.com.br/,200,OK,Thread Group 1-89,text,true,,136121,122,164,164,https://www.correios.com.br/,2316,0,378
+1715293402140,2941,https://www.correios.com.br/,200,OK,Thread Group 1-95,text,true,,136120,122,164,164,https://www.correios.com.br/,1548,0,90
+1715293402395,2686,https://www.correios.com.br/,200,OK,Thread Group 1-147,text,true,,136120,122,164,164,https://www.correios.com.br/,1093,0,1068
+1715293405053,65,https://www.gov.br/,200,OK,Thread Group 1-126,text,true,,130838,231,164,164,https://www.gov.br/pt-br,23,0,0
+1715293405053,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-126,,true,,861,113,164,164,https://www.gov.br/,23,0,0
+1715293405076,42,https://www.gov.br/-1,200,OK,Thread Group 1-126,text,true,,129977,118,164,164,https://www.gov.br/pt-br,22,0,0
+1715293405009,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-7,text,true,,186079,126,163,163,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293402491,2649,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-128,text,true,,186079,126,163,163,https://www.gov.br/fazenda/pt-br,121,0,94
+1715293402638,2504,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-144,text,true,,186077,126,163,163,https://www.gov.br/fazenda/pt-br,2166,0,2121
+1715293405042,116,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-3,text,true,,186079,126,163,163,https://www.gov.br/fazenda/pt-br,75,0,42
+1715293405052,115,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-53,text,true,,186077,126,163,163,https://www.gov.br/fazenda/pt-br,71,0,43
+1715293401999,3174,https://www.correios.com.br/,200,OK,Thread Group 1-68,text,true,,136121,122,163,163,https://www.correios.com.br/,2719,0,228
+1715293405081,115,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-95,text,true,,186083,126,163,163,https://www.gov.br/fazenda/pt-br,73,0,48
+1715293401744,3455,https://www.correios.com.br/,200,OK,Thread Group 1-17,text,true,,136121,122,163,163,https://www.correios.com.br/,1747,0,471
+1715293405120,106,https://www.gov.br/,200,OK,Thread Group 1-7,text,true,,130838,231,163,163,https://www.gov.br/pt-br,23,0,0
+1715293405120,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-7,,true,,861,113,163,163,https://www.gov.br/,23,0,0
+1715293405143,83,https://www.gov.br/-1,200,OK,Thread Group 1-7,text,true,,129977,118,163,163,https://www.gov.br/pt-br,23,0,0
+1715293405167,65,https://www.gov.br/,200,OK,Thread Group 1-53,text,true,,130838,231,162,162,https://www.gov.br/pt-br,22,0,0
+1715293405167,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-53,,true,,861,113,162,162,https://www.gov.br/,22,0,0
+1715293405189,43,https://www.gov.br/-1,200,OK,Thread Group 1-53,text,true,,129977,118,162,162,https://www.gov.br/pt-br,23,0,0
+1715293405158,85,https://www.gov.br/,200,OK,Thread Group 1-3,text,true,,130832,231,161,161,https://www.gov.br/pt-br,23,0,0
+1715293405158,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-3,,true,,861,113,161,161,https://www.gov.br/,23,0,0
+1715293405181,62,https://www.gov.br/-1,200,OK,Thread Group 1-3,text,true,,129971,118,161,161,https://www.gov.br/pt-br,22,0,0
+1715293402539,2709,https://www.correios.com.br/,200,OK,Thread Group 1-176,text,true,,136122,122,160,160,https://www.correios.com.br/,2297,0,59
+1715293405196,64,https://www.gov.br/,200,OK,Thread Group 1-95,text,true,,130832,231,160,160,https://www.gov.br/pt-br,22,0,0
+1715293405196,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-95,,true,,861,113,160,160,https://www.gov.br/,22,0,0
+1715293405218,42,https://www.gov.br/-1,200,OK,Thread Group 1-95,text,true,,129971,118,160,160,https://www.gov.br/pt-br,22,0,0
+1715293402554,2711,https://www.correios.com.br/,200,OK,Thread Group 1-179,text,true,,136122,122,159,159,https://www.correios.com.br/,312,0,60
+1715293402559,2719,https://www.correios.com.br/,200,OK,Thread Group 1-180,text,true,,136121,122,159,159,https://www.correios.com.br/,386,0,287
+1715293404851,475,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-49,text,true,,186079,126,159,159,https://www.gov.br/fazenda/pt-br,330,0,292
+1715293405038,288,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-146,text,true,,186077,126,159,159,https://www.gov.br/fazenda/pt-br,104,0,46
+1715293405038,292,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-13,text,true,,186083,126,159,159,https://www.gov.br/fazenda/pt-br,104,0,46
+1715293405142,198,https://www.gov.br/,200,OK,Thread Group 1-144,text,true,,130837,231,159,159,https://www.gov.br/pt-br,39,0,0
+1715293405142,39,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-144,,true,,861,113,159,159,https://www.gov.br/,39,0,0
+1715293405181,159,https://www.gov.br/-1,200,OK,Thread Group 1-144,text,true,,129976,118,159,159,https://www.gov.br/pt-br,22,0,0
+1715293405140,204,https://www.gov.br/,200,OK,Thread Group 1-128,text,true,,130838,231,158,158,https://www.gov.br/pt-br,23,0,0
+1715293405140,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-128,,true,,861,113,158,158,https://www.gov.br/,23,0,0
+1715293405163,181,https://www.gov.br/-1,200,OK,Thread Group 1-128,text,true,,129977,118,158,158,https://www.gov.br/pt-br,22,0,0
+1715293405249,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-176,text,true,,186079,126,157,157,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293401874,3494,https://www.correios.com.br/,200,OK,Thread Group 1-43,text,true,,136120,122,157,157,https://www.correios.com.br/,1797,0,351
+1715293405063,313,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-20,text,true,,186077,126,157,157,https://www.gov.br/fazenda/pt-br,118,0,80
+1715293401725,3685,https://www.correios.com.br/,200,OK,Thread Group 1-8,text,true,,136122,122,157,157,https://www.correios.com.br/,1917,0,759
+1715293405360,64,https://www.gov.br/,200,OK,Thread Group 1-176,text,true,,130832,231,157,157,https://www.gov.br/pt-br,23,0,0
+1715293405360,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-176,,true,,861,113,157,157,https://www.gov.br/,23,0,0
+1715293405383,41,https://www.gov.br/-1,200,OK,Thread Group 1-176,text,true,,129971,118,157,157,https://www.gov.br/pt-br,22,0,0
+1715293401725,3722,https://www.correios.com.br/,200,OK,Thread Group 1-4,text,true,,136121,122,156,156,https://www.correios.com.br/,2045,0,500
+1715293405278,214,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-180,text,true,,186083,126,156,156,https://www.gov.br/fazenda/pt-br,73,0,47
+1715293405326,188,https://www.gov.br/,200,OK,Thread Group 1-49,text,true,,130837,231,156,156,https://www.gov.br/pt-br,30,0,0
+1715293405326,30,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-49,,true,,861,113,156,156,https://www.gov.br/,30,0,0
+1715293405356,158,https://www.gov.br/-1,200,OK,Thread Group 1-49,text,true,,129976,118,156,156,https://www.gov.br/pt-br,23,0,0
+1715293405330,212,https://www.gov.br/,200,OK,Thread Group 1-13,text,true,,130838,231,155,155,https://www.gov.br/pt-br,26,0,0
+1715293405326,216,https://www.gov.br/,200,OK,Thread Group 1-146,text,true,,130838,231,155,155,https://www.gov.br/pt-br,30,0,0
+1715293405330,26,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-13,,true,,861,113,155,155,https://www.gov.br/,26,0,0
+1715293405326,30,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-146,,true,,861,113,155,155,https://www.gov.br/,30,0,0
+1715293405356,186,https://www.gov.br/-1,200,OK,Thread Group 1-13,text,true,,129977,118,155,155,https://www.gov.br/pt-br,24,0,0
+1715293405356,186,https://www.gov.br/-1,200,OK,Thread Group 1-146,text,true,,129977,118,155,155,https://www.gov.br/pt-br,22,0,0
+1715293401725,3816,https://www.correios.com.br/,200,OK,Thread Group 1-11,text,true,,136121,122,155,155,https://www.correios.com.br/,2061,0,754
+1715293405265,278,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-179,text,true,,186077,126,153,153,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293401749,3858,https://www.correios.com.br/,200,OK,Thread Group 1-18,text,true,,136122,122,153,153,https://www.correios.com.br/,1927,0,476
+1715293401779,3871,https://www.correios.com.br/,200,OK,Thread Group 1-24,text,true,,136122,122,153,153,https://www.correios.com.br/,1858,0,451
+1715293405376,274,https://www.gov.br/,200,OK,Thread Group 1-20,text,true,,130832,231,153,153,https://www.gov.br/pt-br,22,0,0
+1715293405376,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-20,,true,,861,113,153,153,https://www.gov.br/,22,0,0
+1715293405398,252,https://www.gov.br/-1,200,OK,Thread Group 1-20,text,true,,129971,118,153,153,https://www.gov.br/pt-br,22,0,0
+1715293402494,3206,https://www.correios.com.br/,200,OK,Thread Group 1-167,text,true,,136121,122,152,152,https://www.correios.com.br/,3106,0,3080
+1715293402284,3419,https://www.correios.com.br/,200,OK,Thread Group 1-125,text,true,,136121,122,152,152,https://www.correios.com.br/,93,0,68
+1715293402090,3660,https://www.correios.com.br/,200,OK,Thread Group 1-86,text,true,,136121,122,152,152,https://www.correios.com.br/,3239,0,3213
+1715293402294,3456,https://www.correios.com.br/,200,OK,Thread Group 1-127,text,true,,136121,122,152,152,https://www.correios.com.br/,3201,0,65
+1715293405492,265,https://www.gov.br/,200,OK,Thread Group 1-180,text,true,,130832,231,152,152,https://www.gov.br/pt-br,23,0,0
+1715293405492,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-180,,true,,861,113,152,152,https://www.gov.br/,23,0,0
+1715293405515,242,https://www.gov.br/-1,200,OK,Thread Group 1-180,text,true,,129971,118,152,152,https://www.gov.br/pt-br,23,0,0
+1715293401725,4072,https://www.correios.com.br/,200,OK,Thread Group 1-6,text,true,,136121,122,151,151,https://www.correios.com.br/,3128,0,505
+1715293402071,3728,https://www.correios.com.br/,200,OK,Thread Group 1-81,text,true,,136121,122,151,151,https://www.correios.com.br/,3295,0,3232
+1715293405542,290,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-11,text,true,,186083,126,151,151,https://www.gov.br/fazenda/pt-br,71,0,47
+1715293405750,99,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-86,text,true,,186077,126,151,151,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293405750,124,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-127,text,true,,186083,126,151,151,https://www.gov.br/fazenda/pt-br,83,0,43
+1715293405411,481,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-8,text,true,,186083,126,151,151,https://www.gov.br/fazenda/pt-br,131,0,43
+1715293405543,350,https://www.gov.br/,200,OK,Thread Group 1-179,text,true,,130838,231,151,151,https://www.gov.br/pt-br,107,0,0
+1715293405543,107,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-179,,true,,861,113,151,151,https://www.gov.br/,107,0,0
+1715293405650,243,https://www.gov.br/-1,200,OK,Thread Group 1-179,text,true,,129977,118,151,151,https://www.gov.br/pt-br,26,0,0
+1715293405849,86,https://www.gov.br/,200,OK,Thread Group 1-86,text,true,,130838,231,150,150,https://www.gov.br/pt-br,44,0,0
+1715293405849,44,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-86,,true,,861,113,150,150,https://www.gov.br/,44,0,0
+1715293405893,42,https://www.gov.br/-1,200,OK,Thread Group 1-86,text,true,,129977,118,150,150,https://www.gov.br/pt-br,22,0,0
+1715293405448,488,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-4,text,true,,186079,126,149,149,https://www.gov.br/fazenda/pt-br,231,0,203
+1715293405799,137,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-81,text,true,,186079,126,149,149,https://www.gov.br/fazenda/pt-br,82,0,58
+1715293405874,84,https://www.gov.br/,200,OK,Thread Group 1-127,text,true,,130838,231,149,149,https://www.gov.br/pt-br,34,0,0
+1715293405874,34,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-127,,true,,861,113,149,149,https://www.gov.br/,34,0,0
+1715293405908,50,https://www.gov.br/-1,200,OK,Thread Group 1-127,text,true,,129977,118,149,149,https://www.gov.br/pt-br,28,0,0
+1715293405832,159,https://www.gov.br/,200,OK,Thread Group 1-11,text,true,,130832,231,148,148,https://www.gov.br/pt-br,31,0,0
+1715293405832,31,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-11,,true,,861,113,148,148,https://www.gov.br/,31,0,0
+1715293405863,128,https://www.gov.br/-1,200,OK,Thread Group 1-11,text,true,,129971,118,148,148,https://www.gov.br/pt-br,30,0,0
+1715293402814,3183,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-149,text,true,,186083,126,147,147,https://www.gov.br/fazenda/pt-br,3109,0,3062
+1715293402274,3757,https://www.correios.com.br/,200,OK,Thread Group 1-123,text,true,,136122,122,147,147,https://www.correios.com.br/,100,0,68
+1715293405892,145,https://www.gov.br/,200,OK,Thread Group 1-8,text,true,,130832,231,147,147,https://www.gov.br/pt-br,44,0,0
+1715293405892,44,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-8,,true,,861,113,147,147,https://www.gov.br/,44,0,0
+1715293405936,101,https://www.gov.br/-1,200,OK,Thread Group 1-8,text,true,,129971,118,147,147,https://www.gov.br/pt-br,23,0,0
+1715293402249,3799,https://www.correios.com.br/,200,OK,Thread Group 1-118,text,true,,136121,122,146,146,https://www.correios.com.br/,1096,0,1068
+1715293401726,4333,https://www.correios.com.br/,200,OK,Thread Group 1-12,text,true,,136122,122,146,146,https://www.correios.com.br/,1029,0,718
+1715293405936,128,https://www.gov.br/,200,OK,Thread Group 1-81,text,true,,130838,231,146,146,https://www.gov.br/pt-br,27,0,0
+1715293405936,27,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-81,,true,,861,113,146,146,https://www.gov.br/,27,0,0
+1715293405963,101,https://www.gov.br/-1,200,OK,Thread Group 1-81,text,true,,129977,118,146,146,https://www.gov.br/pt-br,22,0,0
+1715293402120,3959,https://www.correios.com.br/,200,OK,Thread Group 1-92,text,true,,136122,122,145,145,https://www.correios.com.br/,627,0,601
+1715293402534,3566,https://www.correios.com.br/,200,OK,Thread Group 1-175,text,true,,136120,122,145,145,https://www.correios.com.br/,3344,0,63
+1715293405936,183,https://www.gov.br/,200,OK,Thread Group 1-4,text,true,,130838,231,145,145,https://www.gov.br/pt-br,24,0,0
+1715293405936,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-4,,true,,861,113,145,145,https://www.gov.br/,24,0,0
+1715293405960,159,https://www.gov.br/-1,200,OK,Thread Group 1-4,text,true,,129977,118,145,145,https://www.gov.br/pt-br,22,0,0
+1715293402525,3594,https://www.correios.com.br/,200,OK,Thread Group 1-173,text,true,,136122,122,145,145,https://www.correios.com.br/,87,0,61
+1715293406031,93,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-123,text,true,,186079,126,144,144,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293402549,3578,https://www.correios.com.br/,200,OK,Thread Group 1-178,text,true,,136121,122,144,144,https://www.correios.com.br/,3321,0,60
+1715293406048,93,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-118,text,true,,186077,126,144,144,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293405997,145,https://www.gov.br/,200,OK,Thread Group 1-149,text,true,,130832,231,144,144,https://www.gov.br/pt-br,23,0,0
+1715293405997,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-149,,true,,861,113,144,144,https://www.gov.br/,23,0,0
+1715293406020,122,https://www.gov.br/-1,200,OK,Thread Group 1-149,text,true,,129971,118,144,144,https://www.gov.br/pt-br,23,0,0
+1715293401889,4255,https://www.correios.com.br/,200,OK,Thread Group 1-46,text,true,,136121,122,143,143,https://www.correios.com.br/,3780,0,324
+1715293402499,3655,https://www.correios.com.br/,200,OK,Thread Group 1-168,text,true,,136121,122,143,143,https://www.correios.com.br/,3511,0,3177
+1715293406060,99,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-12,text,true,,186083,126,143,143,https://www.gov.br/fazenda/pt-br,70,0,45
+1715293406124,45,https://www.gov.br/,200,OK,Thread Group 1-123,text,true,,130838,231,143,143,https://www.gov.br/pt-br,22,0,0
+1715293406124,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-123,,true,,861,113,143,143,https://www.gov.br/,22,0,0
+1715293406146,23,https://www.gov.br/-1,200,OK,Thread Group 1-123,text,true,,129977,118,143,143,https://www.gov.br/pt-br,22,0,0
+1715293406141,46,https://www.gov.br/,200,OK,Thread Group 1-118,text,true,,130832,231,142,142,https://www.gov.br/pt-br,23,0,0
+1715293406141,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-118,,true,,861,113,142,142,https://www.gov.br/,23,0,0
+1715293406164,23,https://www.gov.br/-1,200,OK,Thread Group 1-118,text,true,,129971,118,142,142,https://www.gov.br/pt-br,22,0,0
+1715293402185,4006,https://www.correios.com.br/,200,OK,Thread Group 1-104,text,true,,136121,122,141,141,https://www.correios.com.br/,3265,0,3117
+1715293406079,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-92,text,true,,186079,126,141,141,https://www.gov.br/fazenda/pt-br,71,0,47
+1715293405799,399,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-6,text,true,,186077,126,141,141,https://www.gov.br/fazenda/pt-br,95,0,65
+1715293402622,3593,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-131,text,true,,186077,126,141,141,https://www.gov.br/fazenda/pt-br,2213,0,1051
+1715293406159,64,https://www.gov.br/,200,OK,Thread Group 1-12,text,true,,130832,231,141,141,https://www.gov.br/pt-br,23,0,0
+1715293406159,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-12,,true,,861,113,141,141,https://www.gov.br/,23,0,0
+1715293406182,41,https://www.gov.br/-1,200,OK,Thread Group 1-12,text,true,,129971,118,141,141,https://www.gov.br/pt-br,22,0,0
+1715293406100,135,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-175,text,true,,186077,126,140,140,https://www.gov.br/fazenda/pt-br,72,0,47
+1715293406191,48,https://www.gov.br/,200,OK,Thread Group 1-92,text,true,,130838,231,140,140,https://www.gov.br/pt-br,24,0,0
+1715293406191,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-92,,true,,861,113,140,140,https://www.gov.br/,24,0,0
+1715293406215,24,https://www.gov.br/-1,200,OK,Thread Group 1-92,text,true,,129977,118,140,140,https://www.gov.br/pt-br,23,0,0
+1715293402439,3821,https://www.correios.com.br/,200,OK,Thread Group 1-156,text,true,,136122,122,139,139,https://www.correios.com.br/,3454,0,3152
+1715293401764,4524,https://www.correios.com.br/,200,OK,Thread Group 1-21,text,true,,136121,122,139,139,https://www.correios.com.br/,4114,0,461
+1715293402471,3817,https://www.correios.com.br/,200,OK,Thread Group 1-162,text,true,,136121,122,139,139,https://www.correios.com.br/,3407,0,3320
+1715293401869,4420,https://www.correios.com.br/,200,OK,Thread Group 1-42,text,true,,136121,122,139,139,https://www.correios.com.br/,1788,0,361
+1715293406235,85,https://www.gov.br/,200,OK,Thread Group 1-175,text,true,,130832,231,139,139,https://www.gov.br/pt-br,22,0,0
+1715293406235,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-175,,true,,861,113,139,139,https://www.gov.br/,22,0,0
+1715293406257,63,https://www.gov.br/-1,200,OK,Thread Group 1-175,text,true,,129971,118,139,139,https://www.gov.br/pt-br,23,0,0
+1715293402435,3932,https://www.correios.com.br/,200,OK,Thread Group 1-155,text,true,,136121,122,138,138,https://www.correios.com.br/,3692,0,3630
+1715293406215,163,https://www.gov.br/,200,OK,Thread Group 1-131,text,true,,130838,231,138,138,https://www.gov.br/pt-br,23,0,0
+1715293406215,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-131,,true,,861,113,138,138,https://www.gov.br/,23,0,0
+1715293406238,140,https://www.gov.br/-1,200,OK,Thread Group 1-131,text,true,,129977,118,138,138,https://www.gov.br/pt-br,22,0,0
+1715293406198,186,https://www.gov.br/,200,OK,Thread Group 1-6,text,true,,130838,231,137,137,https://www.gov.br/pt-br,23,0,0
+1715293406198,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-6,,true,,861,113,137,137,https://www.gov.br/,23,0,0
+1715293406221,163,https://www.gov.br/-1,200,OK,Thread Group 1-6,text,true,,129977,118,137,137,https://www.gov.br/pt-br,22,0,0
+1715293401863,4531,https://www.correios.com.br/,200,OK,Thread Group 1-41,text,true,,136121,122,136,136,https://www.correios.com.br/,4011,0,367
+1715293402430,3964,https://www.correios.com.br/,200,OK,Thread Group 1-154,text,true,,136122,122,136,136,https://www.correios.com.br/,3708,0,3641
+1715293406288,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-21,text,true,,186083,126,136,136,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293406288,122,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-162,text,true,,186079,126,136,136,https://www.gov.br/fazenda/pt-br,74,0,44
+1715293406289,151,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-42,text,true,,186077,126,136,136,https://www.gov.br/fazenda/pt-br,73,0,43
+1715293404145,2315,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-39,text,true,,186077,126,136,136,https://www.gov.br/fazenda/pt-br,2152,0,2108
+1715293401943,4534,https://www.correios.com.br/,200,OK,Thread Group 1-57,text,true,,136121,122,136,136,https://www.correios.com.br/,4075,0,553
+1715293406367,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-155,text,true,,186079,126,136,136,https://www.gov.br/fazenda/pt-br,70,0,45
+1715293406398,125,https://www.gov.br/,200,OK,Thread Group 1-21,text,true,,130838,231,136,136,https://www.gov.br/pt-br,22,0,0
+1715293406398,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-21,,true,,861,113,136,136,https://www.gov.br/,22,0,0
+1715293406420,103,https://www.gov.br/-1,200,OK,Thread Group 1-21,text,true,,129977,118,136,136,https://www.gov.br/pt-br,23,0,0
+1715293406479,45,https://www.gov.br/,200,OK,Thread Group 1-155,text,true,,130838,231,135,135,https://www.gov.br/pt-br,22,0,0
+1715293406479,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-155,,true,,861,113,135,135,https://www.gov.br/,22,0,0
+1715293406501,23,https://www.gov.br/-1,200,OK,Thread Group 1-155,text,true,,129977,118,135,135,https://www.gov.br/pt-br,22,0,0
+1715293406410,164,https://www.gov.br/,200,OK,Thread Group 1-162,text,true,,130838,231,134,134,https://www.gov.br/pt-br,23,0,0
+1715293406410,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-162,,true,,861,113,134,134,https://www.gov.br/,23,0,0
+1715293406433,141,https://www.gov.br/-1,200,OK,Thread Group 1-162,text,true,,129977,118,134,134,https://www.gov.br/pt-br,22,0,0
+1715293401914,4664,https://www.correios.com.br/,200,OK,Thread Group 1-51,text,true,,136120,122,133,133,https://www.correios.com.br/,822,0,317
+1715293406441,147,https://www.gov.br/,200,OK,Thread Group 1-42,text,true,,130838,231,133,133,https://www.gov.br/pt-br,25,0,0
+1715293406441,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-42,,true,,861,113,133,133,https://www.gov.br/,25,0,0
+1715293406466,122,https://www.gov.br/-1,200,OK,Thread Group 1-42,text,true,,129977,118,133,133,https://www.gov.br/pt-br,23,0,0
+1715293402118,4485,https://www.correios.com.br/,200,OK,Thread Group 1-87,text,true,,136122,122,132,132,https://www.correios.com.br/,3977,0,378
+1715293406154,464,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-168,text,true,,186079,126,132,132,https://www.gov.br/fazenda/pt-br,315,0,291
+1715293402319,4326,https://www.correios.com.br/,200,OK,Thread Group 1-132,text,true,,136122,122,132,132,https://www.correios.com.br/,2754,0,544
+1715293402187,4502,https://www.correios.com.br/,200,OK,Thread Group 1-105,text,true,,136121,122,132,132,https://www.correios.com.br/,4220,0,3122
+1715293406578,128,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-51,text,true,,186077,126,132,132,https://www.gov.br/fazenda/pt-br,87,0,63
+1715293406604,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-87,text,true,,186083,126,132,132,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293406460,256,https://www.gov.br/,200,OK,Thread Group 1-39,text,true,,130837,231,132,132,https://www.gov.br/pt-br,22,0,0
+1715293406460,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-39,,true,,861,113,132,132,https://www.gov.br/,22,0,0
+1715293406482,234,https://www.gov.br/-1,200,OK,Thread Group 1-39,text,true,,129976,118,132,132,https://www.gov.br/pt-br,25,0,0
+1715293404058,2667,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-193,text,true,,186077,126,131,131,https://www.gov.br/fazenda/pt-br,231,0,47
+1715293404065,2692,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-80,text,true,,186083,126,131,131,https://www.gov.br/fazenda/pt-br,239,0,42
+1715293406645,113,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-132,text,true,,186079,126,131,131,https://www.gov.br/fazenda/pt-br,70,0,46
+1715293406618,143,https://www.gov.br/,200,OK,Thread Group 1-168,text,true,,130832,231,131,131,https://www.gov.br/pt-br,23,0,0
+1715293406618,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-168,,true,,861,113,131,131,https://www.gov.br/,23,0,0
+1715293406641,120,https://www.gov.br/-1,200,OK,Thread Group 1-168,text,true,,129971,118,131,131,https://www.gov.br/pt-br,22,0,0
+1715293406706,66,https://www.gov.br/,200,OK,Thread Group 1-51,text,true,,130838,231,130,130,https://www.gov.br/pt-br,24,0,0
+1715293406706,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-51,,true,,861,113,130,130,https://www.gov.br/,24,0,0
+1715293406730,42,https://www.gov.br/-1,200,OK,Thread Group 1-51,text,true,,129977,118,130,130,https://www.gov.br/pt-br,22,0,0
+1715293406714,102,https://www.gov.br/,200,OK,Thread Group 1-87,text,true,,130838,231,129,129,https://www.gov.br/pt-br,22,0,0
+1715293406714,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-87,,true,,861,113,129,129,https://www.gov.br/,22,0,0
+1715293406736,80,https://www.gov.br/-1,200,OK,Thread Group 1-87,text,true,,129977,118,129,129,https://www.gov.br/pt-br,22,0,0
+1715293402079,4750,https://www.correios.com.br/,200,OK,Thread Group 1-84,text,true,,136121,122,128,128,https://www.correios.com.br/,4352,0,3230
+1715293402152,4703,https://www.correios.com.br/,200,OK,Thread Group 1-98,text,true,,136121,122,128,128,https://www.correios.com.br/,3204,0,3149
+1715293402074,4818,https://www.correios.com.br/,200,OK,Thread Group 1-83,text,true,,136121,122,128,128,https://www.correios.com.br/,4525,0,3235
+1715293405081,1812,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-147,text,true,,186079,126,128,128,https://www.gov.br/fazenda/pt-br,461,0,101
+1715293404131,2769,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-26,text,true,,186077,126,128,128,https://www.gov.br/fazenda/pt-br,1411,0,1315
+1715293402210,4713,https://www.correios.com.br/,200,OK,Thread Group 1-109,text,true,,136122,122,128,128,https://www.correios.com.br/,4424,0,3146
+1715293406725,201,https://www.gov.br/,200,OK,Thread Group 1-193,text,true,,130832,231,128,128,https://www.gov.br/pt-br,22,0,0
+1715293406725,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-193,,true,,861,113,128,128,https://www.gov.br/,22,0,0
+1715293406747,179,https://www.gov.br/-1,200,OK,Thread Group 1-193,text,true,,129971,118,128,128,https://www.gov.br/pt-br,24,0,0
+1715293405075,1858,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-89,text,true,,186077,126,127,127,https://www.gov.br/fazenda/pt-br,467,0,107
+1715293406830,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-84,text,true,,186083,126,127,127,https://www.gov.br/fazenda/pt-br,68,0,42
+1715293406757,183,https://www.gov.br/,200,OK,Thread Group 1-80,text,true,,130838,231,127,127,https://www.gov.br/pt-br,22,0,0
+1715293406757,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-80,,true,,861,113,127,127,https://www.gov.br/,22,0,0
+1715293406780,160,https://www.gov.br/-1,200,OK,Thread Group 1-80,text,true,,129977,118,127,127,https://www.gov.br/pt-br,22,0,0
+1715293404083,2865,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-177,text,true,,186079,126,126,126,https://www.gov.br/fazenda/pt-br,1459,0,1099
+1715293402214,4734,https://www.correios.com.br/,200,OK,Thread Group 1-111,text,true,,136121,122,126,126,https://www.correios.com.br/,4439,0,3147
+1715293402191,4759,https://www.correios.com.br/,200,OK,Thread Group 1-106,text,true,,136121,122,126,126,https://www.correios.com.br/,3178,0,3134
+1715293402219,4743,https://www.correios.com.br/,200,OK,Thread Group 1-112,text,true,,136121,122,126,126,https://www.correios.com.br/,4437,0,3145
+1715293402309,4653,https://www.correios.com.br/,200,OK,Thread Group 1-130,text,true,,136122,122,126,126,https://www.correios.com.br/,2220,0,63
+1715293403107,3860,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-187,text,true,,186083,126,126,126,https://www.gov.br/fazenda/pt-br,3362,0,3316
+1715293403099,3868,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-2,text,true,,186077,126,126,126,https://www.gov.br/fazenda/pt-br,3368,0,3322
+1715293406855,116,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-98,text,true,,186079,126,126,126,https://www.gov.br/fazenda/pt-br,74,0,46
+1715293404287,2694,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-133,text,true,,186083,126,126,126,https://www.gov.br/fazenda/pt-br,2146,0,2102
+1715293406892,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-83,text,true,,186077,126,126,126,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293406971,86,https://www.gov.br/,200,OK,Thread Group 1-98,text,true,,130832,231,126,126,https://www.gov.br/pt-br,24,0,0
+1715293406971,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-98,,true,,861,113,126,126,https://www.gov.br/,24,0,0
+1715293406995,62,https://www.gov.br/-1,200,OK,Thread Group 1-98,text,true,,129971,118,126,126,https://www.gov.br/pt-br,23,0,0
+1715293407004,64,https://www.gov.br/,200,OK,Thread Group 1-83,text,true,,130838,231,125,125,https://www.gov.br/pt-br,22,0,0
+1715293407004,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-83,,true,,861,113,125,125,https://www.gov.br/,22,0,0
+1715293407026,42,https://www.gov.br/-1,200,OK,Thread Group 1-83,text,true,,129977,118,125,125,https://www.gov.br/pt-br,22,0,0
+1715293402244,4831,https://www.correios.com.br/,200,OK,Thread Group 1-117,text,true,,136122,122,124,124,https://www.correios.com.br/,1109,0,1074
+1715293406951,132,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-106,text,true,,186077,126,124,124,https://www.gov.br/fazenda/pt-br,72,0,43
+1715293406893,192,https://www.gov.br/,200,OK,Thread Group 1-147,text,true,,130838,231,124,124,https://www.gov.br/pt-br,23,0,0
+1715293406893,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-147,,true,,861,113,124,124,https://www.gov.br/,23,0,0
+1715293406916,169,https://www.gov.br/-1,200,OK,Thread Group 1-147,text,true,,129977,118,124,124,https://www.gov.br/pt-br,31,0,0
+1715293401810,5291,https://www.correios.com.br/,200,OK,Thread Group 1-30,text,true,,136122,122,123,123,https://www.correios.com.br/,3362,0,1955
+1715293402419,4696,https://www.correios.com.br/,200,OK,Thread Group 1-152,text,true,,136121,122,123,123,https://www.correios.com.br/,4269,0,3113
+1715293406939,183,https://www.gov.br/,200,OK,Thread Group 1-84,text,true,,130838,231,123,123,https://www.gov.br/pt-br,23,0,0
+1715293406939,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-84,,true,,861,113,123,123,https://www.gov.br/,23,0,0
+1715293406962,160,https://www.gov.br/-1,200,OK,Thread Group 1-84,text,true,,129977,118,123,123,https://www.gov.br/pt-br,22,0,0
+1715293406923,210,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-109,text,true,,186083,126,122,122,https://www.gov.br/fazenda/pt-br,69,0,45
+1715293402505,4629,https://www.correios.com.br/,200,OK,Thread Group 1-169,text,true,,136121,122,122,122,https://www.correios.com.br/,3331,0,3171
+1715293406758,379,https://www.gov.br/,200,OK,Thread Group 1-132,text,true,,130838,231,122,122,https://www.gov.br/pt-br,260,0,0
+1715293406758,260,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-132,,true,,861,113,122,122,https://www.gov.br/,260,0,0
+1715293407018,119,https://www.gov.br/-1,200,OK,Thread Group 1-132,text,true,,129977,118,122,122,https://www.gov.br/pt-br,22,0,0
+1715293407083,65,https://www.gov.br/,200,OK,Thread Group 1-106,text,true,,130832,231,121,121,https://www.gov.br/pt-br,23,0,0
+1715293407083,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-106,,true,,861,113,121,121,https://www.gov.br/,23,0,0
+1715293407106,42,https://www.gov.br/-1,200,OK,Thread Group 1-106,text,true,,129971,118,121,121,https://www.gov.br/pt-br,22,0,0
+1715293406967,181,https://www.gov.br/,200,OK,Thread Group 1-2,text,true,,130832,231,120,120,https://www.gov.br/pt-br,23,0,0
+1715293406967,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-2,,true,,861,113,120,120,https://www.gov.br/,23,0,0
+1715293406990,158,https://www.gov.br/-1,200,OK,Thread Group 1-2,text,true,,129971,118,120,120,https://www.gov.br/pt-br,22,0,0
+1715293406900,251,https://www.gov.br/,200,OK,Thread Group 1-26,text,true,,130838,231,119,119,https://www.gov.br/pt-br,25,0,0
+1715293406900,25,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-26,,true,,861,113,119,119,https://www.gov.br/,25,0,0
+1715293406925,226,https://www.gov.br/-1,200,OK,Thread Group 1-26,text,true,,129977,118,119,119,https://www.gov.br/pt-br,23,0,0
+1715293406981,182,https://www.gov.br/,200,OK,Thread Group 1-133,text,true,,130832,231,118,118,https://www.gov.br/pt-br,23,0,0
+1715293406981,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-133,,true,,861,113,118,118,https://www.gov.br/,23,0,0
+1715293407004,159,https://www.gov.br/-1,200,OK,Thread Group 1-133,text,true,,129971,118,118,118,https://www.gov.br/pt-br,22,0,0
+1715293406967,203,https://www.gov.br/,200,OK,Thread Group 1-187,text,true,,130832,231,117,117,https://www.gov.br/pt-br,23,0,0
+1715293406967,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-187,,true,,861,113,117,117,https://www.gov.br/,23,0,0
+1715293406990,180,https://www.gov.br/-1,200,OK,Thread Group 1-187,text,true,,129971,118,117,117,https://www.gov.br/pt-br,22,0,0
+1715293406948,228,https://www.gov.br/,200,OK,Thread Group 1-177,text,true,,130838,231,116,116,https://www.gov.br/pt-br,23,0,0
+1715293406948,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-177,,true,,861,113,116,116,https://www.gov.br/,23,0,0
+1715293406971,205,https://www.gov.br/-1,200,OK,Thread Group 1-177,text,true,,129977,118,116,116,https://www.gov.br/pt-br,22,0,0
+1715293406933,262,https://www.gov.br/,200,OK,Thread Group 1-89,text,true,,130838,231,115,115,https://www.gov.br/pt-br,24,0,0
+1715293406933,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-89,,true,,861,113,115,115,https://www.gov.br/,24,0,0
+1715293406957,238,https://www.gov.br/-1,200,OK,Thread Group 1-89,text,true,,129977,118,115,115,https://www.gov.br/pt-br,22,0,0
+1715293403118,4083,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-77,text,true,,186079,126,114,114,https://www.gov.br/fazenda/pt-br,3541,0,3363
+1715293407101,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-30,text,true,,186079,126,114,114,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293402520,4693,https://www.correios.com.br/,200,OK,Thread Group 1-172,text,true,,136120,122,114,114,https://www.correios.com.br/,4427,0,4218
+1715293407075,150,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-117,text,true,,186083,126,114,114,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293407115,127,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-152,text,true,,186077,126,114,114,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293407134,126,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-169,text,true,,186083,126,114,114,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293402425,4852,https://www.correios.com.br/,200,OK,Thread Group 1-153,text,true,,136122,122,114,114,https://www.correios.com.br/,3423,0,3147
+1715293407133,145,https://www.gov.br/,200,OK,Thread Group 1-109,text,true,,130832,231,114,114,https://www.gov.br/pt-br,23,0,0
+1715293407133,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-109,,true,,861,113,114,114,https://www.gov.br/,23,0,0
+1715293407156,122,https://www.gov.br/-1,200,OK,Thread Group 1-109,text,true,,129971,118,114,114,https://www.gov.br/pt-br,22,0,0
+1715293407225,64,https://www.gov.br/,200,OK,Thread Group 1-117,text,true,,130838,231,113,113,https://www.gov.br/pt-br,22,0,0
+1715293407225,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-117,,true,,861,113,113,113,https://www.gov.br/,22,0,0
+1715293407247,42,https://www.gov.br/-1,200,OK,Thread Group 1-117,text,true,,129977,118,113,113,https://www.gov.br/pt-br,22,0,0
+1715293407212,84,https://www.gov.br/,200,OK,Thread Group 1-30,text,true,,130838,231,112,112,https://www.gov.br/pt-br,23,0,0
+1715293407212,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-30,,true,,861,113,112,112,https://www.gov.br/,23,0,0
+1715293407235,61,https://www.gov.br/-1,200,OK,Thread Group 1-30,text,true,,129977,118,112,112,https://www.gov.br/pt-br,22,0,0
+1715293407242,65,https://www.gov.br/,200,OK,Thread Group 1-152,text,true,,130832,231,111,111,https://www.gov.br/pt-br,23,0,0
+1715293407242,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-152,,true,,861,113,111,111,https://www.gov.br/,23,0,0
+1715293407265,42,https://www.gov.br/-1,200,OK,Thread Group 1-152,text,true,,129971,118,111,111,https://www.gov.br/pt-br,22,0,0
+1715293407260,65,https://www.gov.br/,200,OK,Thread Group 1-169,text,true,,130832,231,110,110,https://www.gov.br/pt-br,24,0,0
+1715293407260,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-169,,true,,861,113,110,110,https://www.gov.br/,24,0,0
+1715293407284,41,https://www.gov.br/-1,200,OK,Thread Group 1-169,text,true,,129971,118,110,110,https://www.gov.br/pt-br,21,0,0
+1715293401880,5446,https://www.correios.com.br/,200,OK,Thread Group 1-44,text,true,,136122,122,109,109,https://www.correios.com.br/,1916,0,346
+1715293406689,647,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-105,text,true,,186077,126,109,109,https://www.gov.br/fazenda/pt-br,223,0,43
+1715293406191,1147,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-104,text,true,,186079,126,109,109,https://www.gov.br/fazenda/pt-br,1067,0,1043
+1715293407213,171,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-172,text,true,,186083,126,109,109,https://www.gov.br/fazenda/pt-br,71,0,47
+1715293402475,4913,https://www.correios.com.br/,200,OK,Thread Group 1-163,text,true,,136121,122,109,109,https://www.correios.com.br/,4470,0,4386
+1715293407201,188,https://www.gov.br/,200,OK,Thread Group 1-77,text,true,,130832,231,109,109,https://www.gov.br/pt-br,23,0,0
+1715293407201,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-77,,true,,861,113,109,109,https://www.gov.br/,23,0,0
+1715293407224,165,https://www.gov.br/-1,200,OK,Thread Group 1-77,text,true,,129971,118,109,109,https://www.gov.br/pt-br,23,0,0
+1715293407338,65,https://www.gov.br/,200,OK,Thread Group 1-104,text,true,,130837,231,108,108,https://www.gov.br/pt-br,23,0,0
+1715293407338,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-104,,true,,861,113,108,108,https://www.gov.br/,23,0,0
+1715293407361,42,https://www.gov.br/-1,200,OK,Thread Group 1-104,text,true,,129976,118,108,108,https://www.gov.br/pt-br,22,0,0
+1715293402211,5219,https://www.correios.com.br/,200,OK,Thread Group 1-110,text,true,,136121,122,107,107,https://www.correios.com.br/,4510,0,3154
+1715293404121,3312,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-199,text,true,,186077,126,107,107,https://www.gov.br/fazenda/pt-br,3181,0,3136
+1715293407326,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-44,text,true,,186077,126,107,107,https://www.gov.br/fazenda/pt-br,70,0,44
+1715293402024,5421,https://www.correios.com.br/,200,OK,Thread Group 1-73,text,true,,136121,122,107,107,https://www.correios.com.br/,4866,0,207
+1715293407277,174,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-153,text,true,,186079,126,107,107,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293407384,71,https://www.gov.br/,200,OK,Thread Group 1-172,text,true,,130838,231,107,107,https://www.gov.br/pt-br,23,0,0
+1715293407384,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-172,,true,,861,113,107,107,https://www.gov.br/,23,0,0
+1715293407407,48,https://www.gov.br/-1,200,OK,Thread Group 1-172,text,true,,129977,118,107,107,https://www.gov.br/pt-br,22,0,0
+1715293401920,5543,https://www.correios.com.br/,200,OK,Thread Group 1-52,text,true,,136121,122,106,106,https://www.correios.com.br/,2896,0,310
+1715293407389,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-163,text,true,,186083,126,106,106,https://www.gov.br/fazenda/pt-br,68,0,42
+1715293407433,67,https://www.gov.br/,200,OK,Thread Group 1-199,text,true,,130838,231,106,106,https://www.gov.br/pt-br,24,0,0
+1715293407433,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-199,,true,,861,113,106,106,https://www.gov.br/,24,0,0
+1715293407457,43,https://www.gov.br/-1,200,OK,Thread Group 1-199,text,true,,129977,118,106,106,https://www.gov.br/pt-br,23,0,0
+1715293407437,65,https://www.gov.br/,200,OK,Thread Group 1-44,text,true,,130832,231,105,105,https://www.gov.br/pt-br,23,0,0
+1715293407437,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-44,,true,,861,113,105,105,https://www.gov.br/,23,0,0
+1715293407460,42,https://www.gov.br/-1,200,OK,Thread Group 1-44,text,true,,129971,118,105,105,https://www.gov.br/pt-br,22,0,0
+1715293406144,1367,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-46,text,true,,186083,126,104,104,https://www.gov.br/fazenda/pt-br,1146,0,1102
+1715293403140,4372,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-96,text,true,,186079,126,104,104,https://www.gov.br/fazenda/pt-br,4153,0,4110
+1715293407451,66,https://www.gov.br/,200,OK,Thread Group 1-153,text,true,,130837,231,104,104,https://www.gov.br/pt-br,24,0,0
+1715293407451,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-153,,true,,861,113,104,104,https://www.gov.br/,24,0,0
+1715293407475,42,https://www.gov.br/-1,200,OK,Thread Group 1-153,text,true,,129976,118,104,104,https://www.gov.br/pt-br,22,0,0
+1715293404108,3416,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-67,text,true,,186077,126,103,103,https://www.gov.br/fazenda/pt-br,3178,0,3135
+1715293406948,581,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-111,text,true,,186079,126,103,103,https://www.gov.br/fazenda/pt-br,222,0,43
+1715293407430,114,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-110,text,true,,186079,126,103,103,https://www.gov.br/fazenda/pt-br,72,0,48
+1715293407336,209,https://www.gov.br/,200,OK,Thread Group 1-105,text,true,,130832,231,103,103,https://www.gov.br/pt-br,23,0,0
+1715293407336,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-105,,true,,861,113,103,103,https://www.gov.br/,23,0,0
+1715293407359,186,https://www.gov.br/-1,200,OK,Thread Group 1-105,text,true,,129971,118,103,103,https://www.gov.br/pt-br,22,0,0
+1715293407445,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-73,text,true,,186077,126,102,102,https://www.gov.br/fazenda/pt-br,69,0,44
+1715293407499,65,https://www.gov.br/,200,OK,Thread Group 1-163,text,true,,130832,231,102,102,https://www.gov.br/pt-br,22,0,0
+1715293407499,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-163,,true,,861,113,102,102,https://www.gov.br/,22,0,0
+1715293407521,43,https://www.gov.br/-1,200,OK,Thread Group 1-163,text,true,,129971,118,102,102,https://www.gov.br/pt-br,23,0,0
+1715293402163,5408,https://www.correios.com.br/,200,OK,Thread Group 1-100,text,true,,136122,122,101,101,https://www.correios.com.br/,3202,0,948
+1715293407464,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-52,text,true,,186083,126,101,101,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293407544,64,https://www.gov.br/,200,OK,Thread Group 1-110,text,true,,130838,231,101,101,https://www.gov.br/pt-br,23,0,0
+1715293407544,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-110,,true,,861,113,101,101,https://www.gov.br/,23,0,0
+1715293407567,41,https://www.gov.br/-1,200,OK,Thread Group 1-110,text,true,,129977,118,101,101,https://www.gov.br/pt-br,22,0,0
+1715293407556,66,https://www.gov.br/,200,OK,Thread Group 1-73,text,true,,130832,231,100,100,https://www.gov.br/pt-br,22,0,0
+1715293407556,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-73,,true,,861,113,100,100,https://www.gov.br/,22,0,0
+1715293407578,44,https://www.gov.br/-1,200,OK,Thread Group 1-73,text,true,,129971,118,100,100,https://www.gov.br/pt-br,23,0,0
+1715293407573,67,https://www.gov.br/,200,OK,Thread Group 1-52,text,true,,130832,231,99,99,https://www.gov.br/pt-br,24,0,0
+1715293407573,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-52,,true,,861,113,99,99,https://www.gov.br/,24,0,0
+1715293407597,43,https://www.gov.br/-1,200,OK,Thread Group 1-52,text,true,,129971,118,99,99,https://www.gov.br/pt-br,23,0,0
+1715293406394,1248,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-154,text,true,,186077,126,98,98,https://www.gov.br/fazenda/pt-br,79,0,51
+1715293402168,5502,https://www.correios.com.br/,200,OK,Thread Group 1-101,text,true,,136121,122,98,98,https://www.correios.com.br/,4234,0,943
+1715293406394,1288,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-41,text,true,,186083,126,98,98,https://www.gov.br/fazenda/pt-br,84,0,51
+1715293407512,184,https://www.gov.br/,200,OK,Thread Group 1-96,text,true,,130838,231,98,98,https://www.gov.br/pt-br,22,0,0
+1715293407512,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-96,,true,,861,113,98,98,https://www.gov.br/,22,0,0
+1715293407534,162,https://www.gov.br/-1,200,OK,Thread Group 1-96,text,true,,129977,118,98,98,https://www.gov.br/pt-br,23,0,0
+1715293407512,185,https://www.gov.br/,200,OK,Thread Group 1-46,text,true,,130838,231,97,97,https://www.gov.br/pt-br,23,0,0
+1715293407512,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-46,,true,,861,113,97,97,https://www.gov.br/,23,0,0
+1715293407535,162,https://www.gov.br/-1,200,OK,Thread Group 1-46,text,true,,129977,118,97,97,https://www.gov.br/pt-br,22,0,0
+1715293407571,129,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-100,text,true,,186079,126,96,96,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293407524,184,https://www.gov.br/,200,OK,Thread Group 1-67,text,true,,130837,231,96,96,https://www.gov.br/pt-br,23,0,0
+1715293407524,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-67,,true,,861,113,96,96,https://www.gov.br/,23,0,0
+1715293407547,161,https://www.gov.br/-1,200,OK,Thread Group 1-67,text,true,,129976,118,96,96,https://www.gov.br/pt-br,23,0,0
+1715293407529,206,https://www.gov.br/,200,OK,Thread Group 1-111,text,true,,130838,231,95,95,https://www.gov.br/pt-br,22,0,0
+1715293407529,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-111,,true,,861,113,95,95,https://www.gov.br/,22,0,0
+1715293407551,184,https://www.gov.br/-1,200,OK,Thread Group 1-111,text,true,,129977,118,95,95,https://www.gov.br/pt-br,22,0,0
+1715293407700,66,https://www.gov.br/,200,OK,Thread Group 1-100,text,true,,130832,231,94,94,https://www.gov.br/pt-br,23,0,0
+1715293407700,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-100,,true,,861,113,94,94,https://www.gov.br/,23,0,0
+1715293407723,43,https://www.gov.br/-1,200,OK,Thread Group 1-100,text,true,,129971,118,94,94,https://www.gov.br/pt-br,22,0,0
+1715293404134,3641,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-76,text,true,,186083,126,93,93,https://www.gov.br/fazenda/pt-br,1224,0,1046
+1715293407670,113,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-101,text,true,,186077,126,93,93,https://www.gov.br/fazenda/pt-br,71,0,45
+1715293406119,1681,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-173,text,true,,186083,126,93,93,https://www.gov.br/fazenda/pt-br,226,0,44
+1715293406127,1673,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-178,text,true,,186079,126,93,93,https://www.gov.br/fazenda/pt-br,225,0,43
+1715293402279,5536,https://www.correios.com.br/,200,OK,Thread Group 1-124,text,true,,136121,122,93,93,https://www.correios.com.br/,90,0,63
+1715293402239,5580,https://www.correios.com.br/,200,OK,Thread Group 1-116,text,true,,136121,122,93,93,https://www.correios.com.br/,1107,0,1079
+1715293407642,183,https://www.gov.br/,200,OK,Thread Group 1-154,text,true,,130837,231,93,93,https://www.gov.br/pt-br,23,0,0
+1715293407642,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-154,,true,,861,113,93,93,https://www.gov.br/,23,0,0
+1715293407665,160,https://www.gov.br/-1,200,OK,Thread Group 1-154,text,true,,129976,118,93,93,https://www.gov.br/pt-br,22,0,0
+1715293407783,66,https://www.gov.br/,200,OK,Thread Group 1-101,text,true,,130838,231,92,92,https://www.gov.br/pt-br,23,0,0
+1715293407783,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-101,,true,,861,113,92,92,https://www.gov.br/,23,0,0
+1715293407806,43,https://www.gov.br/-1,200,OK,Thread Group 1-101,text,true,,129977,118,92,92,https://www.gov.br/pt-br,22,0,0
+1715293407682,203,https://www.gov.br/,200,OK,Thread Group 1-41,text,true,,130838,231,91,91,https://www.gov.br/pt-br,23,0,0
+1715293407682,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-41,,true,,861,113,91,91,https://www.gov.br/,23,0,0
+1715293407705,180,https://www.gov.br/-1,200,OK,Thread Group 1-41,text,true,,129977,118,91,91,https://www.gov.br/pt-br,24,0,0
+1715293407819,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-116,text,true,,186079,126,90,90,https://www.gov.br/fazenda/pt-br,68,0,42
+1715293407816,127,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-124,text,true,,186083,126,90,90,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293402515,5439,https://www.correios.com.br/,200,OK,Thread Group 1-171,text,true,,136121,122,90,90,https://www.correios.com.br/,3102,0,3075
+1715293407775,187,https://www.gov.br/,200,OK,Thread Group 1-76,text,true,,130837,231,90,90,https://www.gov.br/pt-br,24,0,0
+1715293407775,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-76,,true,,861,113,90,90,https://www.gov.br/,24,0,0
+1715293407799,163,https://www.gov.br/-1,200,OK,Thread Group 1-76,text,true,,129976,118,90,90,https://www.gov.br/pt-br,22,0,0
+1715293407800,182,https://www.gov.br/,200,OK,Thread Group 1-173,text,true,,130832,231,89,89,https://www.gov.br/pt-br,22,0,0
+1715293407800,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-173,,true,,861,113,89,89,https://www.gov.br/,22,0,0
+1715293407822,160,https://www.gov.br/-1,200,OK,Thread Group 1-173,text,true,,129971,118,89,89,https://www.gov.br/pt-br,23,0,0
+1715293407800,183,https://www.gov.br/,200,OK,Thread Group 1-178,text,true,,130832,231,88,88,https://www.gov.br/pt-br,22,0,0
+1715293407800,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-178,,true,,861,113,88,88,https://www.gov.br/,22,0,0
+1715293407822,161,https://www.gov.br/-1,200,OK,Thread Group 1-178,text,true,,129971,118,88,88,https://www.gov.br/pt-br,23,0,0
+1715293402509,5481,https://www.correios.com.br/,200,OK,Thread Group 1-170,text,true,,136121,122,87,87,https://www.correios.com.br/,4244,0,3082
+1715293407929,65,https://www.gov.br/,200,OK,Thread Group 1-116,text,true,,130838,231,87,87,https://www.gov.br/pt-br,23,0,0
+1715293407929,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-116,,true,,861,113,87,87,https://www.gov.br/,23,0,0
+1715293407952,42,https://www.gov.br/-1,200,OK,Thread Group 1-116,text,true,,129977,118,87,87,https://www.gov.br/pt-br,22,0,0
+1715293407943,65,https://www.gov.br/,200,OK,Thread Group 1-124,text,true,,130837,231,86,86,https://www.gov.br/pt-br,23,0,0
+1715293407943,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-124,,true,,861,113,86,86,https://www.gov.br/,23,0,0
+1715293407966,42,https://www.gov.br/-1,200,OK,Thread Group 1-124,text,true,,129976,118,86,86,https://www.gov.br/pt-br,22,0,0
+1715293404887,3146,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-122,text,true,,186077,126,85,85,https://www.gov.br/fazenda/pt-br,3087,0,3062
+1715293403292,4766,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-85,text,true,,186083,126,85,85,https://www.gov.br/fazenda/pt-br,1236,0,50
+1715293405703,2370,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-125,text,true,,186077,126,85,85,https://www.gov.br/fazenda/pt-br,2153,0,2108
+1715293407954,129,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-171,text,true,,186083,126,85,85,https://www.gov.br/fazenda/pt-br,69,0,44
+1715293405700,2394,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-167,text,true,,186079,126,85,85,https://www.gov.br/fazenda/pt-br,2155,0,2110
+1715293405651,2458,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-24,text,true,,186083,126,85,85,https://www.gov.br/fazenda/pt-br,2152,0,2107
+1715293408033,84,https://www.gov.br/,200,OK,Thread Group 1-122,text,true,,130832,231,85,85,https://www.gov.br/pt-br,23,0,0
+1715293408033,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-122,,true,,861,113,85,85,https://www.gov.br/,23,0,0
+1715293408056,61,https://www.gov.br/-1,200,OK,Thread Group 1-122,text,true,,129971,118,85,85,https://www.gov.br/pt-br,22,0,0
+1715293408083,65,https://www.gov.br/,200,OK,Thread Group 1-171,text,true,,130838,231,84,84,https://www.gov.br/pt-br,22,0,0
+1715293408083,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-171,,true,,861,113,84,84,https://www.gov.br/,22,0,0
+1715293408105,43,https://www.gov.br/-1,200,OK,Thread Group 1-171,text,true,,129977,118,84,84,https://www.gov.br/pt-br,23,0,0
+1715293403503,4677,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-115,text,true,,186079,126,83,83,https://www.gov.br/fazenda/pt-br,1224,0,1044
+1715293408058,182,https://www.gov.br/,200,OK,Thread Group 1-85,text,true,,130832,231,83,83,https://www.gov.br/pt-br,23,0,0
+1715293408058,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-85,,true,,861,113,83,83,https://www.gov.br/,23,0,0
+1715293408081,159,https://www.gov.br/-1,200,OK,Thread Group 1-85,text,true,,129971,118,83,83,https://www.gov.br/pt-br,21,0,0
+1715293408073,181,https://www.gov.br/,200,OK,Thread Group 1-125,text,true,,130838,231,82,82,https://www.gov.br/pt-br,23,0,0
+1715293408073,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-125,,true,,861,113,82,82,https://www.gov.br/,23,0,0
+1715293408096,158,https://www.gov.br/-1,200,OK,Thread Group 1-125,text,true,,129977,118,82,82,https://www.gov.br/pt-br,22,0,0
+1715293407991,269,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-170,text,true,,186079,126,81,81,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293408094,205,https://www.gov.br/,200,OK,Thread Group 1-167,text,true,,130832,231,81,81,https://www.gov.br/pt-br,22,0,0
+1715293408094,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-167,,true,,861,113,81,81,https://www.gov.br/,22,0,0
+1715293408116,183,https://www.gov.br/-1,200,OK,Thread Group 1-167,text,true,,129971,118,81,81,https://www.gov.br/pt-br,22,0,0
+1715293408109,192,https://www.gov.br/,200,OK,Thread Group 1-24,text,true,,130832,231,80,80,https://www.gov.br/pt-br,23,0,0
+1715293408109,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-24,,true,,861,113,80,80,https://www.gov.br/,23,0,0
+1715293408132,169,https://www.gov.br/-1,200,OK,Thread Group 1-24,text,true,,129971,118,80,80,https://www.gov.br/pt-br,22,0,0
+1715293405200,3121,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-17,text,true,,186079,126,79,79,https://www.gov.br/fazenda/pt-br,3079,0,3054
+1715293408181,183,https://www.gov.br/,200,OK,Thread Group 1-115,text,true,,130838,231,79,79,https://www.gov.br/pt-br,22,0,0
+1715293408181,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-115,,true,,861,113,79,79,https://www.gov.br/,22,0,0
+1715293408203,161,https://www.gov.br/-1,200,OK,Thread Group 1-115,text,true,,129977,118,79,79,https://www.gov.br/pt-br,22,0,0
+1715293406962,1405,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-130,text,true,,186083,126,78,78,https://www.gov.br/fazenda/pt-br,1147,0,1102
+1715293406962,1412,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-112,text,true,,186077,126,78,78,https://www.gov.br/fazenda/pt-br,1147,0,1102
+1715293408321,67,https://www.gov.br/,200,OK,Thread Group 1-17,text,true,,130832,231,78,78,https://www.gov.br/pt-br,23,0,0
+1715293408321,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-17,,true,,861,113,78,78,https://www.gov.br/,23,0,0
+1715293408344,44,https://www.gov.br/-1,200,OK,Thread Group 1-17,text,true,,129971,118,78,78,https://www.gov.br/pt-br,24,0,0
+1715293408260,164,https://www.gov.br/,200,OK,Thread Group 1-170,text,true,,130838,231,77,77,https://www.gov.br/pt-br,24,0,0
+1715293408260,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-170,,true,,861,113,77,77,https://www.gov.br/,24,0,0
+1715293408284,140,https://www.gov.br/-1,200,OK,Thread Group 1-170,text,true,,129977,118,77,77,https://www.gov.br/pt-br,22,0,0
+1715293401964,6462,https://www.correios.com.br/,200,OK,Thread Group 1-61,text,true,,136121,122,76,76,https://www.correios.com.br/,6241,0,6217
+1715293401858,6569,https://www.correios.com.br/,200,OK,Thread Group 1-40,text,true,,136121,122,76,76,https://www.correios.com.br/,6385,0,6324
+1715293401740,6693,https://www.correios.com.br/,200,OK,Thread Group 1-16,text,true,,136122,122,76,76,https://www.correios.com.br/,6503,0,6442
+1715293401728,6705,https://www.correios.com.br/,200,OK,Thread Group 1-14,text,true,,136122,122,76,76,https://www.correios.com.br/,6517,0,6455
+1715293401725,6714,https://www.correios.com.br/,200,OK,Thread Group 1-9,text,true,,136121,122,76,76,https://www.correios.com.br/,6524,0,6482
+1715293405173,3281,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-68,text,true,,186077,126,76,76,https://www.gov.br/fazenda/pt-br,3180,0,3136
+1715293401989,6481,https://www.correios.com.br/,200,OK,Thread Group 1-66,text,true,,136121,122,76,76,https://www.correios.com.br/,6280,0,6218
+1715293402029,6457,https://www.correios.com.br/,200,OK,Thread Group 1-74,text,true,,136121,122,76,76,https://www.correios.com.br/,6256,0,6193
+1715293401754,6744,https://www.correios.com.br/,200,OK,Thread Group 1-19,text,true,,136122,122,76,76,https://www.correios.com.br/,6550,0,6468
+1715293402163,6354,https://www.correios.com.br/,200,OK,Thread Group 1-99,text,true,,136122,122,76,76,https://www.correios.com.br/,6146,0,6121
+1715293402109,6425,https://www.correios.com.br/,200,OK,Thread Group 1-88,text,true,,136121,122,76,76,https://www.correios.com.br/,6235,0,6174
+1715293408454,87,https://www.gov.br/,200,OK,Thread Group 1-68,text,true,,130838,231,76,76,https://www.gov.br/pt-br,23,0,0
+1715293408454,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-68,,true,,861,113,76,76,https://www.gov.br/,23,0,0
+1715293408477,64,https://www.gov.br/-1,200,OK,Thread Group 1-68,text,true,,129977,118,76,76,https://www.gov.br/pt-br,23,0,0
+1715293408433,115,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-14,text,true,,186083,126,75,75,https://www.gov.br/fazenda/pt-br,73,0,47
+1715293408427,126,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-61,text,true,,186083,126,75,75,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293408427,134,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-40,text,true,,186079,126,75,75,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293408367,202,https://www.gov.br/,200,OK,Thread Group 1-130,text,true,,130837,231,75,75,https://www.gov.br/pt-br,23,0,0
+1715293408367,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-130,,true,,861,113,75,75,https://www.gov.br/,23,0,0
+1715293408390,179,https://www.gov.br/-1,200,OK,Thread Group 1-130,text,true,,129976,118,75,75,https://www.gov.br/pt-br,22,0,0
+1715293408440,131,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-9,text,true,,186079,126,74,74,https://www.gov.br/fazenda/pt-br,71,0,42
+1715293408374,203,https://www.gov.br/,200,OK,Thread Group 1-112,text,true,,130838,231,74,74,https://www.gov.br/pt-br,22,0,0
+1715293408374,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-112,,true,,861,113,74,74,https://www.gov.br/,22,0,0
+1715293408396,181,https://www.gov.br/-1,200,OK,Thread Group 1-112,text,true,,129977,118,74,74,https://www.gov.br/pt-br,25,0,0
+1715293408548,66,https://www.gov.br/,200,OK,Thread Group 1-14,text,true,,130837,231,73,73,https://www.gov.br/pt-br,24,0,0
+1715293408548,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-14,,true,,861,113,73,73,https://www.gov.br/,24,0,0
+1715293408573,41,https://www.gov.br/-1,200,OK,Thread Group 1-14,text,true,,129976,118,73,73,https://www.gov.br/pt-br,22,0,0
+1715293408553,65,https://www.gov.br/,200,OK,Thread Group 1-61,text,true,,130838,231,72,72,https://www.gov.br/pt-br,23,0,0
+1715293408553,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-61,,true,,861,113,72,72,https://www.gov.br/,23,0,0
+1715293408576,42,https://www.gov.br/-1,200,OK,Thread Group 1-61,text,true,,129977,118,72,72,https://www.gov.br/pt-br,22,0,0
+1715293408561,65,https://www.gov.br/,200,OK,Thread Group 1-40,text,true,,130838,231,71,71,https://www.gov.br/pt-br,23,0,0
+1715293408561,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-40,,true,,861,113,71,71,https://www.gov.br/,23,0,0
+1715293408584,42,https://www.gov.br/-1,200,OK,Thread Group 1-40,text,true,,129977,118,71,71,https://www.gov.br/pt-br,22,0,0
+1715293408498,129,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-19,text,true,,186077,126,70,70,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293408571,66,https://www.gov.br/,200,OK,Thread Group 1-9,text,true,,130838,231,70,70,https://www.gov.br/pt-br,23,0,0
+1715293408571,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-9,,true,,861,113,70,70,https://www.gov.br/,23,0,0
+1715293408594,43,https://www.gov.br/-1,200,OK,Thread Group 1-9,text,true,,129977,118,70,70,https://www.gov.br/pt-br,22,0,0
+1715293408433,209,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-16,text,true,,186077,126,69,69,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293408518,131,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-99,text,true,,186083,126,69,69,https://www.gov.br/fazenda/pt-br,69,0,45
+1715293405368,3324,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-43,text,true,,186077,126,69,69,https://www.gov.br/fazenda/pt-br,3186,0,3140
+1715293408627,66,https://www.gov.br/,200,OK,Thread Group 1-19,text,true,,130838,231,69,69,https://www.gov.br/pt-br,22,0,0
+1715293408627,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-19,,true,,861,113,69,69,https://www.gov.br/,22,0,0
+1715293408649,44,https://www.gov.br/-1,200,OK,Thread Group 1-19,text,true,,129977,118,69,69,https://www.gov.br/pt-br,23,0,0
+1715293408471,226,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-66,text,true,,186083,126,68,68,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293402345,6352,https://www.correios.com.br/,200,OK,Thread Group 1-137,text,true,,136121,122,68,68,https://www.correios.com.br/,6140,0,6116
+1715293402350,6347,https://www.correios.com.br/,200,OK,Thread Group 1-138,text,true,,136116,122,68,68,https://www.correios.com.br/,6162,0,6115
+1715293408649,65,https://www.gov.br/,200,OK,Thread Group 1-99,text,true,,130832,231,68,68,https://www.gov.br/pt-br,22,0,0
+1715293408649,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-99,,true,,861,113,68,68,https://www.gov.br/,22,0,0
+1715293408671,43,https://www.gov.br/-1,200,OK,Thread Group 1-99,text,true,,129971,118,68,68,https://www.gov.br/pt-br,23,0,0
+1715293402339,6408,https://www.correios.com.br/,200,OK,Thread Group 1-136,text,true,,136122,122,67,67,https://www.correios.com.br/,6146,0,6121
+1715293408486,271,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-74,text,true,,186079,126,67,67,https://www.gov.br/fazenda/pt-br,73,0,49
+1715293408692,65,https://www.gov.br/,200,OK,Thread Group 1-43,text,true,,130838,231,67,67,https://www.gov.br/pt-br,23,0,0
+1715293408692,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-43,,true,,861,113,67,67,https://www.gov.br/,23,0,0
+1715293408715,42,https://www.gov.br/-1,200,OK,Thread Group 1-43,text,true,,129977,118,67,67,https://www.gov.br/pt-br,22,0,0
+1715293402354,6411,https://www.correios.com.br/,200,OK,Thread Group 1-139,text,true,,136122,122,66,66,https://www.correios.com.br/,6187,0,6117
+1715293402484,6313,https://www.correios.com.br/,200,OK,Thread Group 1-165,text,true,,136121,122,66,66,https://www.correios.com.br/,6184,0,6141
+1715293402479,6319,https://www.correios.com.br/,200,OK,Thread Group 1-164,text,true,,136121,122,66,66,https://www.correios.com.br/,6188,0,6145
+1715293408642,167,https://www.gov.br/,200,OK,Thread Group 1-16,text,true,,130838,231,66,66,https://www.gov.br/pt-br,23,0,0
+1715293408642,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-16,,true,,861,113,66,66,https://www.gov.br/,23,0,0
+1715293408665,144,https://www.gov.br/-1,200,OK,Thread Group 1-16,text,true,,129977,118,66,66,https://www.gov.br/pt-br,22,0,0
+1715293408698,114,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-137,text,true,,186083,126,65,65,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293408698,125,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-138,text,true,,186077,126,65,65,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293408697,148,https://www.gov.br/,200,OK,Thread Group 1-66,text,true,,130838,231,65,65,https://www.gov.br/pt-br,22,0,0
+1715293408697,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-66,,true,,861,113,65,65,https://www.gov.br/,22,0,0
+1715293408719,126,https://www.gov.br/-1,200,OK,Thread Group 1-66,text,true,,129977,118,65,65,https://www.gov.br/pt-br,22,0,0
+1715293408812,46,https://www.gov.br/,200,OK,Thread Group 1-137,text,true,,130832,231,64,64,https://www.gov.br/pt-br,22,0,0
+1715293408812,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-137,,true,,861,113,64,64,https://www.gov.br/,22,0,0
+1715293408834,24,https://www.gov.br/-1,200,OK,Thread Group 1-137,text,true,,129971,118,64,64,https://www.gov.br/pt-br,22,0,0
+1715293408747,117,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-136,text,true,,186079,126,63,63,https://www.gov.br/fazenda/pt-br,74,0,50
+1715293408823,65,https://www.gov.br/,200,OK,Thread Group 1-138,text,true,,130838,231,63,63,https://www.gov.br/pt-br,23,0,0
+1715293408823,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-138,,true,,861,113,63,63,https://www.gov.br/,23,0,0
+1715293408846,42,https://www.gov.br/-1,200,OK,Thread Group 1-138,text,true,,129977,118,63,63,https://www.gov.br/pt-br,22,0,0
+1715293408757,131,https://www.gov.br/,200,OK,Thread Group 1-74,text,true,,130838,231,62,62,https://www.gov.br/pt-br,22,0,0
+1715293408757,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-74,,true,,861,113,62,62,https://www.gov.br/,22,0,0
+1715293408779,109,https://www.gov.br/-1,200,OK,Thread Group 1-74,text,true,,129977,118,62,62,https://www.gov.br/pt-br,27,0,0
+1715293408797,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-165,text,true,,186083,126,61,61,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293402584,6342,https://www.correios.com.br/,200,OK,Thread Group 1-185,text,true,,136121,122,61,61,https://www.correios.com.br/,6161,0,6115
+1715293408799,130,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-164,text,true,,186079,126,61,61,https://www.gov.br/fazenda/pt-br,69,0,41
+1715293402409,6538,https://www.correios.com.br/,200,OK,Thread Group 1-150,text,true,,136122,122,61,61,https://www.correios.com.br/,6334,0,6234
+1715293402589,6376,https://www.correios.com.br/,200,OK,Thread Group 1-186,text,true,,136121,122,61,61,https://www.correios.com.br/,6156,0,6113
+1715293408906,65,https://www.gov.br/,200,OK,Thread Group 1-165,text,true,,130838,231,61,61,https://www.gov.br/pt-br,22,0,0
+1715293408906,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-165,,true,,861,113,61,61,https://www.gov.br/,22,0,0
+1715293408928,43,https://www.gov.br/-1,200,OK,Thread Group 1-165,text,true,,129977,118,61,61,https://www.gov.br/pt-br,23,0,0
+1715293402580,6409,https://www.correios.com.br/,200,OK,Thread Group 1-184,text,true,,136121,122,60,60,https://www.correios.com.br/,6157,0,6113
+1715293402199,6798,https://www.correios.com.br/,200,OK,Thread Group 1-108,text,true,,136121,122,60,60,https://www.correios.com.br/,6574,0,6507
+1715293408927,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-185,text,true,,186077,126,60,60,https://www.gov.br/fazenda/pt-br,71,0,42
+1715293408948,108,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-150,text,true,,186083,126,60,60,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293401793,7269,https://www.correios.com.br/,200,OK,Thread Group 1-27,text,true,,136122,122,60,60,https://www.correios.com.br/,3857,0,421
+1715293408864,199,https://www.gov.br/,200,OK,Thread Group 1-136,text,true,,130832,231,60,60,https://www.gov.br/pt-br,23,0,0
+1715293408864,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-136,,true,,861,113,60,60,https://www.gov.br/,23,0,0
+1715293408887,176,https://www.gov.br/-1,200,OK,Thread Group 1-136,text,true,,129971,118,60,60,https://www.gov.br/pt-br,22,0,0
+1715293408965,106,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-186,text,true,,186079,126,59,59,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293408929,166,https://www.gov.br/,200,OK,Thread Group 1-164,text,true,,130838,231,59,59,https://www.gov.br/pt-br,24,0,0
+1715293408929,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-164,,true,,861,113,59,59,https://www.gov.br/,24,0,0
+1715293408953,142,https://www.gov.br/-1,200,OK,Thread Group 1-164,text,true,,129977,118,59,59,https://www.gov.br/pt-br,22,0,0
+1715293408989,113,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-184,text,true,,186077,126,58,58,https://www.gov.br/fazenda/pt-br,72,0,45
+1715293409056,46,https://www.gov.br/,200,OK,Thread Group 1-150,text,true,,130832,231,58,58,https://www.gov.br/pt-br,23,0,0
+1715293409056,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-150,,true,,861,113,58,58,https://www.gov.br/,23,0,0
+1715293409079,23,https://www.gov.br/-1,200,OK,Thread Group 1-150,text,true,,129971,118,58,58,https://www.gov.br/pt-br,23,0,0
+1715293408997,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-108,text,true,,186083,126,57,57,https://www.gov.br/fazenda/pt-br,69,0,45
+1715293402460,6654,https://www.correios.com.br/,200,OK,Thread Group 1-160,text,true,,136122,122,57,57,https://www.correios.com.br/,6334,0,6248
+1715293409071,48,https://www.gov.br/,200,OK,Thread Group 1-186,text,true,,130832,231,57,57,https://www.gov.br/pt-br,23,0,0
+1715293409071,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-186,,true,,861,113,57,57,https://www.gov.br/,23,0,0
+1715293409094,25,https://www.gov.br/-1,200,OK,Thread Group 1-186,text,true,,129971,118,57,57,https://www.gov.br/pt-br,24,0,0
+1715293409039,87,https://www.gov.br/,200,OK,Thread Group 1-185,text,true,,130838,231,56,56,https://www.gov.br/pt-br,22,0,0
+1715293409039,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-185,,true,,861,113,56,56,https://www.gov.br/,22,0,0
+1715293409061,65,https://www.gov.br/-1,200,OK,Thread Group 1-185,text,true,,129977,118,56,56,https://www.gov.br/pt-br,25,0,0
+1715293409102,46,https://www.gov.br/,200,OK,Thread Group 1-184,text,true,,130837,231,55,55,https://www.gov.br/pt-br,23,0,0
+1715293409102,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-184,,true,,861,113,55,55,https://www.gov.br/,23,0,0
+1715293409125,23,https://www.gov.br/-1,200,OK,Thread Group 1-184,text,true,,129976,118,55,55,https://www.gov.br/pt-br,22,0,0
+1715293402465,6704,https://www.correios.com.br/,200,OK,Thread Group 1-161,text,true,,136120,122,54,54,https://www.correios.com.br/,6348,0,6243
+1715293409107,65,https://www.gov.br/,200,OK,Thread Group 1-108,text,true,,130838,231,54,54,https://www.gov.br/pt-br,23,0,0
+1715293409107,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-108,,true,,861,113,54,54,https://www.gov.br/,23,0,0
+1715293409130,42,https://www.gov.br/-1,200,OK,Thread Group 1-108,text,true,,129977,118,54,54,https://www.gov.br/pt-br,22,0,0
+1715293409062,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-27,text,true,,186079,126,53,53,https://www.gov.br/fazenda/pt-br,70,0,44
+1715293409174,46,https://www.gov.br/,200,OK,Thread Group 1-27,text,true,,130832,231,53,53,https://www.gov.br/pt-br,22,0,0
+1715293409174,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-27,,true,,861,113,53,53,https://www.gov.br/,22,0,0
+1715293409196,24,https://www.gov.br/-1,200,OK,Thread Group 1-27,text,true,,129971,118,53,53,https://www.gov.br/pt-br,23,0,0
+1715293409115,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-160,text,true,,186077,126,52,52,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293409169,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-161,text,true,,186083,126,52,52,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293409224,64,https://www.gov.br/,200,OK,Thread Group 1-160,text,true,,130832,231,52,52,https://www.gov.br/pt-br,23,0,0
+1715293409224,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-160,,true,,861,113,52,52,https://www.gov.br/,23,0,0
+1715293409247,41,https://www.gov.br/-1,200,OK,Thread Group 1-160,text,true,,129971,118,52,52,https://www.gov.br/pt-br,21,0,0
+1715293409278,48,https://www.gov.br/,200,OK,Thread Group 1-161,text,true,,130838,231,51,51,https://www.gov.br/pt-br,23,0,0
+1715293409278,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-161,,true,,861,113,51,51,https://www.gov.br/,23,0,0
+1715293409301,25,https://www.gov.br/-1,200,OK,Thread Group 1-161,text,true,,129977,118,51,51,https://www.gov.br/pt-br,24,0,0
+1715293408765,643,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-139,text,true,,186077,126,50,50,https://www.gov.br/fazenda/pt-br,233,0,43
+1715293402010,7496,https://www.correios.com.br/,200,OK,Thread Group 1-70,text,true,,136121,122,50,50,https://www.correios.com.br/,7220,0,7176
+1715293409408,163,https://www.gov.br/,200,OK,Thread Group 1-139,text,true,,130838,231,50,50,https://www.gov.br/pt-br,23,0,0
+1715293409408,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-139,,true,,861,113,50,50,https://www.gov.br/,23,0,0
+1715293409431,140,https://www.gov.br/-1,200,OK,Thread Group 1-139,text,true,,129977,118,50,50,https://www.gov.br/pt-br,23,0,0
+1715293401805,7870,https://www.correios.com.br/,200,OK,Thread Group 1-29,text,true,,136121,122,49,49,https://www.correios.com.br/,7610,0,408
+1715293401734,7950,https://www.correios.com.br/,200,OK,Thread Group 1-15,text,true,,136121,122,49,49,https://www.correios.com.br/,7687,0,480
+1715293401910,7780,https://www.correios.com.br/,200,OK,Thread Group 1-50,text,true,,136121,122,49,49,https://www.correios.com.br/,435,0,303
+1715293401769,7928,https://www.correios.com.br/,200,OK,Thread Group 1-22,text,true,,136122,122,49,49,https://www.correios.com.br/,600,0,456
+1715293401814,7887,https://www.correios.com.br/,200,OK,Thread Group 1-31,text,true,,136121,122,49,49,https://www.correios.com.br/,546,0,410
+1715293406260,3441,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-156,text,true,,186079,126,49,49,https://www.gov.br/fazenda/pt-br,3174,0,3129
+1715293402065,7649,https://www.correios.com.br/,200,OK,Thread Group 1-79,text,true,,136121,122,49,49,https://www.correios.com.br/,324,0,149
+1715293402073,7680,https://www.correios.com.br/,200,OK,Thread Group 1-82,text,true,,136122,122,49,49,https://www.correios.com.br/,7370,0,140
+1715293409676,106,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-29,text,true,,186083,126,49,49,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293402384,7405,https://www.correios.com.br/,200,OK,Thread Group 1-145,text,true,,136120,122,49,49,https://www.correios.com.br/,7100,0,7075
+1715293409684,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-15,text,true,,186079,126,49,49,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293409701,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-31,text,true,,186079,126,49,49,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293401894,7920,https://www.correios.com.br/,200,OK,Thread Group 1-47,text,true,,136122,122,49,49,https://www.correios.com.br/,7540,0,321
+1715293401978,7842,https://www.correios.com.br/,200,OK,Thread Group 1-64,text,true,,136121,122,49,49,https://www.correios.com.br/,7441,0,235
+1715293401784,8039,https://www.correios.com.br/,200,OK,Thread Group 1-25,text,true,,136121,122,49,49,https://www.correios.com.br/,7657,0,435
+1715293409698,126,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-22,text,true,,186083,126,49,49,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293401725,8107,https://www.correios.com.br/,200,OK,Thread Group 1-10,text,true,,136121,122,49,49,https://www.correios.com.br/,7725,0,488
+1715293401839,8002,https://www.correios.com.br/,200,OK,Thread Group 1-36,text,true,,136120,122,49,49,https://www.correios.com.br/,7611,0,386
+1715293409714,129,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-79,text,true,,186077,126,49,49,https://www.gov.br/fazenda/pt-br,87,0,44
+1715293401775,8072,https://www.correios.com.br/,200,OK,Thread Group 1-23,text,true,,136122,122,49,49,https://www.correios.com.br/,7645,0,449
+1715293409782,65,https://www.gov.br/,200,OK,Thread Group 1-29,text,true,,130837,231,49,49,https://www.gov.br/pt-br,23,0,0
+1715293409782,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-29,,true,,861,113,49,49,https://www.gov.br/,23,0,0
+1715293409805,42,https://www.gov.br/-1,200,OK,Thread Group 1-29,text,true,,129976,118,49,49,https://www.gov.br/pt-br,22,0,0
+1715293409794,64,https://www.gov.br/,200,OK,Thread Group 1-15,text,true,,130838,231,48,48,https://www.gov.br/pt-br,23,0,0
+1715293409794,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-15,,true,,861,113,48,48,https://www.gov.br/,23,0,0
+1715293409817,41,https://www.gov.br/-1,200,OK,Thread Group 1-15,text,true,,129977,118,48,48,https://www.gov.br/pt-br,22,0,0
+1715293401969,7890,https://www.correios.com.br/,200,OK,Thread Group 1-62,text,true,,136121,122,47,47,https://www.correios.com.br/,7474,0,250
+1715293409690,171,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-50,text,true,,186077,126,47,47,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293409701,161,https://www.gov.br/,200,OK,Thread Group 1-156,text,true,,130832,231,47,47,https://www.gov.br/pt-br,22,0,0
+1715293409701,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-156,,true,,861,113,47,47,https://www.gov.br/,22,0,0
+1715293409724,138,https://www.gov.br/-1,200,OK,Thread Group 1-156,text,true,,129971,118,47,47,https://www.gov.br/pt-br,22,0,0
+1715293402016,7850,https://www.correios.com.br/,200,OK,Thread Group 1-71,text,true,,136121,122,46,46,https://www.correios.com.br/,7428,0,197
+1715293401929,7937,https://www.correios.com.br/,200,OK,Thread Group 1-54,text,true,,136120,122,46,46,https://www.correios.com.br/,7516,0,285
+1715293401725,8142,https://www.correios.com.br/,200,OK,Thread Group 1-5,text,true,,136120,122,46,46,https://www.correios.com.br/,7729,0,487
+1715293409754,115,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-82,text,true,,186083,126,46,46,https://www.gov.br/fazenda/pt-br,72,0,44
+1715293402050,7823,https://www.correios.com.br/,200,OK,Thread Group 1-78,text,true,,136121,122,46,46,https://www.correios.com.br/,7387,0,164
+1715293409811,65,https://www.gov.br/,200,OK,Thread Group 1-31,text,true,,130832,231,46,46,https://www.gov.br/pt-br,23,0,0
+1715293409811,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-31,,true,,861,113,46,46,https://www.gov.br/,23,0,0
+1715293409834,42,https://www.gov.br/-1,200,OK,Thread Group 1-31,text,true,,129971,118,46,46,https://www.gov.br/pt-br,23,0,0
+1715293409824,65,https://www.gov.br/,200,OK,Thread Group 1-22,text,true,,130838,231,45,45,https://www.gov.br/pt-br,23,0,0
+1715293409824,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-22,,true,,861,113,45,45,https://www.gov.br/,23,0,0
+1715293409847,42,https://www.gov.br/-1,200,OK,Thread Group 1-22,text,true,,129977,118,45,45,https://www.gov.br/pt-br,22,0,0
+1715293401884,8013,https://www.correios.com.br/,200,OK,Thread Group 1-45,text,true,,136122,122,44,44,https://www.correios.com.br/,7556,0,331
+1715293409789,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-145,text,true,,186079,126,44,44,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293409843,64,https://www.gov.br/,200,OK,Thread Group 1-79,text,true,,130832,231,44,44,https://www.gov.br/pt-br,22,0,0
+1715293409843,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-79,,true,,861,113,44,44,https://www.gov.br/,22,0,0
+1715293409865,42,https://www.gov.br/-1,200,OK,Thread Group 1-79,text,true,,129971,118,44,44,https://www.gov.br/pt-br,23,0,0
+1715293408534,1383,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-88,text,true,,186077,126,43,43,https://www.gov.br/fazenda/pt-br,1145,0,1099
+1715293409869,64,https://www.gov.br/,200,OK,Thread Group 1-82,text,true,,130838,231,43,43,https://www.gov.br/pt-br,22,0,0
+1715293409869,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-82,,true,,861,113,43,43,https://www.gov.br/,22,0,0
+1715293409891,42,https://www.gov.br/-1,200,OK,Thread Group 1-82,text,true,,129977,118,43,43,https://www.gov.br/pt-br,22,0,0
+1715293409833,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-10,text,true,,186077,126,42,42,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293401850,8099,https://www.correios.com.br/,200,OK,Thread Group 1-38,text,true,,136121,122,42,42,https://www.correios.com.br/,7603,0,364
+1715293409898,67,https://www.gov.br/,200,OK,Thread Group 1-145,text,true,,130832,231,42,42,https://www.gov.br/pt-br,23,0,0
+1715293409898,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-145,,true,,861,113,42,42,https://www.gov.br/,23,0,0
+1715293409921,44,https://www.gov.br/-1,200,OK,Thread Group 1-145,text,true,,129971,118,42,42,https://www.gov.br/pt-br,22,0,0
+1715293409859,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-62,text,true,,186083,126,41,41,https://www.gov.br/fazenda/pt-br,70,0,45
+1715293409861,123,https://www.gov.br/,200,OK,Thread Group 1-50,text,true,,130838,231,41,41,https://www.gov.br/pt-br,23,0,0
+1715293409861,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-50,,true,,861,113,41,41,https://www.gov.br/,23,0,0
+1715293409884,100,https://www.gov.br/-1,200,OK,Thread Group 1-50,text,true,,129977,118,41,41,https://www.gov.br/pt-br,22,0,0
+1715293409897,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-45,text,true,,186079,126,40,40,https://www.gov.br/fazenda/pt-br,68,0,43
+1715293409943,65,https://www.gov.br/,200,OK,Thread Group 1-10,text,true,,130837,231,40,40,https://www.gov.br/pt-br,23,0,0
+1715293409943,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-10,,true,,861,113,40,40,https://www.gov.br/,23,0,0
+1715293409966,42,https://www.gov.br/-1,200,OK,Thread Group 1-10,text,true,,129976,118,40,40,https://www.gov.br/pt-br,22,0,0
+1715293402634,7394,https://www.correios.com.br/,200,OK,Thread Group 1-195,text,true,,136122,122,39,39,https://www.correios.com.br/,7188,0,7127
+1715293402645,7399,https://www.correios.com.br/,200,OK,Thread Group 1-197,text,true,,136122,122,39,39,https://www.correios.com.br/,7184,0,7132
+1715293402629,7418,https://www.correios.com.br/,200,OK,Thread Group 1-194,text,true,,136122,122,39,39,https://www.correios.com.br/,7217,0,7132
+1715293409971,83,https://www.gov.br/,200,OK,Thread Group 1-62,text,true,,130838,231,39,39,https://www.gov.br/pt-br,22,0,0
+1715293409971,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-62,,true,,861,113,39,39,https://www.gov.br/,22,0,0
+1715293409993,61,https://www.gov.br/-1,200,OK,Thread Group 1-62,text,true,,129977,118,39,39,https://www.gov.br/pt-br,23,0,0
+1715293402640,7418,https://www.correios.com.br/,200,OK,Thread Group 1-196,text,true,,136122,122,38,38,https://www.correios.com.br/,7166,0,7123
+1715293410008,64,https://www.gov.br/,200,OK,Thread Group 1-45,text,true,,130832,231,38,38,https://www.gov.br/pt-br,22,0,0
+1715293410008,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-45,,true,,861,113,38,38,https://www.gov.br/,22,0,0
+1715293410030,42,https://www.gov.br/-1,200,OK,Thread Group 1-45,text,true,,129971,118,38,38,https://www.gov.br/pt-br,22,0,0
+1715293409917,204,https://www.gov.br/,200,OK,Thread Group 1-88,text,true,,130838,231,37,37,https://www.gov.br/pt-br,22,0,0
+1715293409917,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-88,,true,,861,113,37,37,https://www.gov.br/,22,0,0
+1715293409939,182,https://www.gov.br/-1,200,OK,Thread Group 1-88,text,true,,129977,118,37,37,https://www.gov.br/pt-br,26,0,0
+1715293409949,184,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-38,text,true,,186077,126,36,36,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293410028,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-195,text,true,,186083,126,36,36,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293410044,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-197,text,true,,186079,126,36,36,https://www.gov.br/fazenda/pt-br,68,0,42
+1715293410047,111,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-194,text,true,,186077,126,36,36,https://www.gov.br/fazenda/pt-br,70,0,42
+1715293410059,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-196,text,true,,186083,126,36,36,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293410154,47,https://www.gov.br/,200,OK,Thread Group 1-197,text,true,,130832,231,36,36,https://www.gov.br/pt-br,23,0,0
+1715293410154,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-197,,true,,861,113,36,36,https://www.gov.br/,23,0,0
+1715293410177,24,https://www.gov.br/-1,200,OK,Thread Group 1-197,text,true,,129971,118,36,36,https://www.gov.br/pt-br,22,0,0
+1715293410158,46,https://www.gov.br/,200,OK,Thread Group 1-194,text,true,,130832,231,35,35,https://www.gov.br/pt-br,23,0,0
+1715293410158,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-194,,true,,861,113,35,35,https://www.gov.br/,23,0,0
+1715293410181,23,https://www.gov.br/-1,200,OK,Thread Group 1-194,text,true,,129971,118,35,35,https://www.gov.br/pt-br,21,0,0
+1715293410140,65,https://www.gov.br/,200,OK,Thread Group 1-195,text,true,,130838,231,34,34,https://www.gov.br/pt-br,22,0,0
+1715293410140,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-195,,true,,861,113,34,34,https://www.gov.br/,22,0,0
+1715293410163,42,https://www.gov.br/-1,200,OK,Thread Group 1-195,text,true,,129977,118,34,34,https://www.gov.br/pt-br,22,0,0
+1715293410171,64,https://www.gov.br/,200,OK,Thread Group 1-196,text,true,,130832,231,33,33,https://www.gov.br/pt-br,22,0,0
+1715293410171,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-196,,true,,861,113,33,33,https://www.gov.br/,22,0,0
+1715293410193,42,https://www.gov.br/-1,200,OK,Thread Group 1-196,text,true,,129971,118,33,33,https://www.gov.br/pt-br,22,0,0
+1715293409841,429,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-36,text,true,,186079,126,32,32,https://www.gov.br/fazenda/pt-br,309,0,44
+1715293410133,163,https://www.gov.br/,200,OK,Thread Group 1-38,text,true,,130837,231,32,32,https://www.gov.br/pt-br,23,0,0
+1715293410133,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-38,,true,,861,113,32,32,https://www.gov.br/,23,0,0
+1715293410156,140,https://www.gov.br/-1,200,OK,Thread Group 1-38,text,true,,129976,118,32,32,https://www.gov.br/pt-br,22,0,0
+1715293409823,518,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-25,text,true,,186079,126,31,31,https://www.gov.br/fazenda/pt-br,224,0,43
+1715293409814,563,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-47,text,true,,186077,126,31,31,https://www.gov.br/fazenda/pt-br,228,0,47
+1715293409820,558,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-64,text,true,,186083,126,31,31,https://www.gov.br/fazenda/pt-br,225,0,43
+1715293410270,124,https://www.gov.br/,200,OK,Thread Group 1-36,text,true,,130838,231,31,31,https://www.gov.br/pt-br,23,0,0
+1715293410270,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-36,,true,,861,113,31,31,https://www.gov.br/,23,0,0
+1715293410293,101,https://www.gov.br/-1,200,OK,Thread Group 1-36,text,true,,129977,118,31,31,https://www.gov.br/pt-br,23,0,0
+1715293401984,8455,https://www.correios.com.br/,200,OK,Thread Group 1-65,text,true,,136121,122,30,30,https://www.correios.com.br/,3845,0,242
+1715293410341,162,https://www.gov.br/,200,OK,Thread Group 1-25,text,true,,130838,231,30,30,https://www.gov.br/pt-br,23,0,0
+1715293410341,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-25,,true,,861,113,30,30,https://www.gov.br/,23,0,0
+1715293410364,139,https://www.gov.br/-1,200,OK,Thread Group 1-25,text,true,,129977,118,30,30,https://www.gov.br/pt-br,22,0,0
+1715293410378,163,https://www.gov.br/,200,OK,Thread Group 1-64,text,true,,130838,231,29,29,https://www.gov.br/pt-br,24,0,0
+1715293410378,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-64,,true,,861,113,29,29,https://www.gov.br/,24,0,0
+1715293410402,139,https://www.gov.br/-1,200,OK,Thread Group 1-64,text,true,,129977,118,29,29,https://www.gov.br/pt-br,21,0,0
+1715293410439,112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-65,text,true,,186077,126,28,28,https://www.gov.br/fazenda/pt-br,70,0,44
+1715293410377,182,https://www.gov.br/,200,OK,Thread Group 1-47,text,true,,130832,231,28,28,https://www.gov.br/pt-br,22,0,0
+1715293410377,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-47,,true,,861,113,28,28,https://www.gov.br/,22,0,0
+1715293410399,160,https://www.gov.br/-1,200,OK,Thread Group 1-47,text,true,,129971,118,28,28,https://www.gov.br/pt-br,22,0,0
+1715293410551,47,https://www.gov.br/,200,OK,Thread Group 1-65,text,true,,130832,231,27,27,https://www.gov.br/pt-br,22,0,0
+1715293410551,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-65,,true,,861,113,27,27,https://www.gov.br/,22,0,0
+1715293410573,25,https://www.gov.br/-1,200,OK,Thread Group 1-65,text,true,,129971,118,27,27,https://www.gov.br/pt-br,24,0,0
+1715293409507,1112,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-70,text,true,,186083,126,26,26,https://www.gov.br/fazenda/pt-br,1071,0,1047
+1715293410619,47,https://www.gov.br/,200,OK,Thread Group 1-70,text,true,,130832,231,26,26,https://www.gov.br/pt-br,23,0,0
+1715293410619,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-70,,true,,861,113,26,26,https://www.gov.br/,23,0,0
+1715293410642,24,https://www.gov.br/-1,200,OK,Thread Group 1-70,text,true,,129971,118,26,26,https://www.gov.br/pt-br,23,0,0
+1715293409847,1365,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-23,text,true,,186079,126,25,25,https://www.gov.br/fazenda/pt-br,1145,0,1100
+1715293411212,182,https://www.gov.br/,200,OK,Thread Group 1-23,text,true,,130832,231,25,25,https://www.gov.br/pt-br,23,0,0
+1715293411212,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-23,,true,,861,113,25,25,https://www.gov.br/,23,0,0
+1715293411235,159,https://www.gov.br/-1,200,OK,Thread Group 1-23,text,true,,129971,118,25,25,https://www.gov.br/pt-br,23,0,0
+1715293402188,9283,https://www.correios.com.br/,200,OK,Thread Group 1-103,text,true,,136121,122,24,24,https://www.correios.com.br/,9166,0,9141
+1715293402188,9294,https://www.correios.com.br/,200,OK,Thread Group 1-102,text,true,,136121,122,24,24,https://www.correios.com.br/,9185,0,9140
+1715293411472,130,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-103,text,true,,186077,126,24,24,https://www.gov.br/fazenda/pt-br,69,0,42
+1715293411483,126,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-102,text,true,,186083,126,24,24,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293402374,9262,https://www.correios.com.br/,200,OK,Thread Group 1-143,text,true,,136121,122,24,24,https://www.correios.com.br/,9185,0,9141
+1715293402364,9278,https://www.correios.com.br/,200,OK,Thread Group 1-141,text,true,,136122,122,24,24,https://www.correios.com.br/,9217,0,9151
+1715293402369,9282,https://www.correios.com.br/,200,OK,Thread Group 1-142,text,true,,136122,122,24,24,https://www.correios.com.br/,9191,0,9147
+1715293411602,65,https://www.gov.br/,200,OK,Thread Group 1-103,text,true,,130838,231,24,24,https://www.gov.br/pt-br,23,0,0
+1715293411602,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-103,,true,,861,113,24,24,https://www.gov.br/,23,0,0
+1715293411625,42,https://www.gov.br/-1,200,OK,Thread Group 1-103,text,true,,129977,118,24,24,https://www.gov.br/pt-br,22,0,0
+1715293411609,66,https://www.gov.br/,200,OK,Thread Group 1-102,text,true,,130838,231,23,23,https://www.gov.br/pt-br,23,0,0
+1715293411609,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-102,,true,,861,113,23,23,https://www.gov.br/,23,0,0
+1715293411632,43,https://www.gov.br/-1,200,OK,Thread Group 1-102,text,true,,129977,118,23,23,https://www.gov.br/pt-br,22,0,0
+1715293411636,135,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-143,text,true,,186079,126,22,22,https://www.gov.br/fazenda/pt-br,75,0,42
+1715293411642,139,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-141,text,true,,186077,126,22,22,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293402197,9605,https://www.correios.com.br/,200,OK,Thread Group 1-107,text,true,,136122,122,22,22,https://www.correios.com.br/,9422,0,9379
+1715293411651,157,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-142,text,true,,186083,126,22,22,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293411771,64,https://www.gov.br/,200,OK,Thread Group 1-143,text,true,,130838,231,22,22,https://www.gov.br/pt-br,22,0,0
+1715293411771,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-143,,true,,861,113,22,22,https://www.gov.br/,22,0,0
+1715293411793,42,https://www.gov.br/-1,200,OK,Thread Group 1-143,text,true,,129977,118,22,22,https://www.gov.br/pt-br,22,0,0
+1715293411781,70,https://www.gov.br/,200,OK,Thread Group 1-141,text,true,,130838,231,21,21,https://www.gov.br/pt-br,27,0,0
+1715293411781,27,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-141,,true,,861,113,21,21,https://www.gov.br/,27,0,0
+1715293411808,43,https://www.gov.br/-1,200,OK,Thread Group 1-141,text,true,,129977,118,21,21,https://www.gov.br/pt-br,23,0,0
+1715293411809,65,https://www.gov.br/,200,OK,Thread Group 1-142,text,true,,130837,231,20,20,https://www.gov.br/pt-br,22,0,0
+1715293411809,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-142,,true,,861,113,20,20,https://www.gov.br/,22,0,0
+1715293411831,43,https://www.gov.br/-1,200,OK,Thread Group 1-142,text,true,,129976,118,20,20,https://www.gov.br/pt-br,23,0,0
+1715293402599,9289,https://www.correios.com.br/,200,OK,Thread Group 1-188,text,true,,136121,122,19,19,https://www.correios.com.br/,9195,0,9152
+1715293402609,9284,https://www.correios.com.br/,200,OK,Thread Group 1-190,text,true,,136121,122,19,19,https://www.correios.com.br/,9192,0,9150
+1715293411802,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-107,text,true,,186079,126,19,19,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293402604,9307,https://www.correios.com.br/,200,OK,Thread Group 1-189,text,true,,136121,122,19,19,https://www.correios.com.br/,9222,0,9142
+1715293402414,9501,https://www.correios.com.br/,200,OK,Thread Group 1-151,text,true,,136121,122,19,19,https://www.correios.com.br/,9230,0,9188
+1715293402614,9315,https://www.correios.com.br/,200,OK,Thread Group 1-191,text,true,,136121,122,19,19,https://www.correios.com.br/,9213,0,9162
+1715293411911,46,https://www.gov.br/,200,OK,Thread Group 1-107,text,true,,130832,231,19,19,https://www.gov.br/pt-br,23,0,0
+1715293411911,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-107,,true,,861,113,19,19,https://www.gov.br/,23,0,0
+1715293411934,23,https://www.gov.br/-1,200,OK,Thread Group 1-107,text,true,,129971,118,19,19,https://www.gov.br/pt-br,22,0,0
+1715293411888,109,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-188,text,true,,186083,126,18,18,https://www.gov.br/fazenda/pt-br,67,0,43
+1715293411893,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-190,text,true,,186079,126,18,18,https://www.gov.br/fazenda/pt-br,68,0,42
+1715293411911,110,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-189,text,true,,186077,126,18,18,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293411915,115,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-151,text,true,,186083,126,18,18,https://www.gov.br/fazenda/pt-br,74,0,46
+1715293411929,114,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-191,text,true,,186079,126,18,18,https://www.gov.br/fazenda/pt-br,68,0,44
+1715293411997,67,https://www.gov.br/,200,OK,Thread Group 1-188,text,true,,130832,231,18,18,https://www.gov.br/pt-br,23,0,0
+1715293411997,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-188,,true,,861,113,18,18,https://www.gov.br/,23,0,0
+1715293412020,44,https://www.gov.br/-1,200,OK,Thread Group 1-188,text,true,,129971,118,18,18,https://www.gov.br/pt-br,24,0,0
+1715293412003,65,https://www.gov.br/,200,OK,Thread Group 1-190,text,true,,130838,231,17,17,https://www.gov.br/pt-br,22,0,0
+1715293412003,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-190,,true,,861,113,17,17,https://www.gov.br/,22,0,0
+1715293412025,43,https://www.gov.br/-1,200,OK,Thread Group 1-190,text,true,,129977,118,17,17,https://www.gov.br/pt-br,23,0,0
+1715293412030,66,https://www.gov.br/,200,OK,Thread Group 1-151,text,true,,130832,231,16,16,https://www.gov.br/pt-br,24,0,0
+1715293412030,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-151,,true,,861,113,16,16,https://www.gov.br/,24,0,0
+1715293412054,42,https://www.gov.br/-1,200,OK,Thread Group 1-151,text,true,,129971,118,16,16,https://www.gov.br/pt-br,22,0,0
+1715293412021,86,https://www.gov.br/,200,OK,Thread Group 1-189,text,true,,130838,231,15,15,https://www.gov.br/pt-br,23,0,0
+1715293412021,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-189,,true,,861,113,15,15,https://www.gov.br/,23,0,0
+1715293412044,63,https://www.gov.br/-1,200,OK,Thread Group 1-189,text,true,,129977,118,15,15,https://www.gov.br/pt-br,23,0,0
+1715293412043,66,https://www.gov.br/,200,OK,Thread Group 1-191,text,true,,130832,231,14,14,https://www.gov.br/pt-br,24,0,0
+1715293412043,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-191,,true,,861,113,14,14,https://www.gov.br/,24,0,0
+1715293412067,42,https://www.gov.br/-1,200,OK,Thread Group 1-191,text,true,,129971,118,14,14,https://www.gov.br/pt-br,22,0,0
+1715293405607,6586,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-18,text,true,,186079,126,13,13,https://www.gov.br/fazenda/pt-br,3170,0,3126
+1715293402850,9418,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-174,text,true,,186077,126,13,13,https://www.gov.br/fazenda/pt-br,9110,0,9062
+1715293412193,183,https://www.gov.br/,200,OK,Thread Group 1-18,text,true,,130832,231,13,13,https://www.gov.br/pt-br,23,0,0
+1715293412193,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-18,,true,,861,113,13,13,https://www.gov.br/,23,0,0
+1715293412216,160,https://www.gov.br/-1,200,OK,Thread Group 1-18,text,true,,129971,118,13,13,https://www.gov.br/pt-br,22,0,0
+1715293412268,205,https://www.gov.br/,200,OK,Thread Group 1-174,text,true,,130838,231,12,12,https://www.gov.br/pt-br,22,0,0
+1715293412268,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-174,,true,,861,113,12,12,https://www.gov.br/,22,0,0
+1715293412290,183,https://www.gov.br/-1,200,OK,Thread Group 1-174,text,true,,129977,118,12,12,https://www.gov.br/pt-br,24,0,0
+1715293402489,10279,https://www.correios.com.br/,200,OK,Thread Group 1-166,text,true,,136122,122,11,11,https://www.correios.com.br/,10187,0,10145
+1715293403485,9292,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-114,text,true,,186077,126,11,11,https://www.gov.br/fazenda/pt-br,9172,0,9128
+1715293402454,10377,https://www.correios.com.br/,200,OK,Thread Group 1-159,text,true,,136122,122,11,11,https://www.correios.com.br/,10212,0,10151
+1715293402449,10389,https://www.correios.com.br/,200,OK,Thread Group 1-158,text,true,,136121,122,11,11,https://www.correios.com.br/,10201,0,10157
+1715293412777,65,https://www.gov.br/,200,OK,Thread Group 1-114,text,true,,130832,231,11,11,https://www.gov.br/pt-br,22,0,0
+1715293412777,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-114,,true,,861,113,11,11,https://www.gov.br/,22,0,0
+1715293412800,42,https://www.gov.br/-1,200,OK,Thread Group 1-114,text,true,,129971,118,11,11,https://www.gov.br/pt-br,22,0,0
+1715293412838,147,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-158,text,true,,186077,126,10,10,https://www.gov.br/fazenda/pt-br,67,0,42
+1715293412768,248,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-166,text,true,,186083,126,10,10,https://www.gov.br/fazenda/pt-br,69,0,43
+1715293412985,68,https://www.gov.br/,200,OK,Thread Group 1-158,text,true,,130837,231,10,10,https://www.gov.br/pt-br,24,0,0
+1715293412985,24,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-158,,true,,861,113,10,10,https://www.gov.br/,24,0,0
+1715293413009,44,https://www.gov.br/-1,200,OK,Thread Group 1-158,text,true,,129976,118,10,10,https://www.gov.br/pt-br,23,0,0
+1715293412831,252,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-159,text,true,,186079,126,9,9,https://www.gov.br/fazenda/pt-br,66,0,42
+1715293409868,3295,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-5,text,true,,186077,126,9,9,https://www.gov.br/fazenda/pt-br,3175,0,3130
+1715293409873,3291,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-78,text,true,,186079,126,9,9,https://www.gov.br/fazenda/pt-br,3169,0,3125
+1715293409866,3319,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-71,text,true,,186083,126,9,9,https://www.gov.br/fazenda/pt-br,3178,0,3132
+1715293413016,185,https://www.gov.br/,200,OK,Thread Group 1-166,text,true,,130838,231,9,9,https://www.gov.br/pt-br,22,0,0
+1715293413016,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-166,,true,,861,113,9,9,https://www.gov.br/,22,0,0
+1715293413039,162,https://www.gov.br/-1,200,OK,Thread Group 1-166,text,true,,129977,118,9,9,https://www.gov.br/pt-br,24,0,0
+1715293409866,3338,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-54,text,true,,186083,126,8,8,https://www.gov.br/fazenda/pt-br,3177,0,3132
+1715293413164,68,https://www.gov.br/,200,OK,Thread Group 1-78,text,true,,130838,231,8,8,https://www.gov.br/pt-br,23,0,0
+1715293413164,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-78,,true,,861,113,8,8,https://www.gov.br/,23,0,0
+1715293413187,45,https://www.gov.br/-1,200,OK,Thread Group 1-78,text,true,,129977,118,8,8,https://www.gov.br/pt-br,25,0,0
+1715293413083,168,https://www.gov.br/,200,OK,Thread Group 1-159,text,true,,130832,231,7,7,https://www.gov.br/pt-br,22,0,0
+1715293413083,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-159,,true,,861,113,7,7,https://www.gov.br/,22,0,0
+1715293413105,146,https://www.gov.br/-1,200,OK,Thread Group 1-159,text,true,,129971,118,7,7,https://www.gov.br/pt-br,23,0,0
+1715293413185,69,https://www.gov.br/,200,OK,Thread Group 1-71,text,true,,130832,231,6,6,https://www.gov.br/pt-br,27,0,0
+1715293413185,27,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-71,,true,,861,113,6,6,https://www.gov.br/,27,0,0
+1715293413212,42,https://www.gov.br/-1,200,OK,Thread Group 1-71,text,true,,129971,118,6,6,https://www.gov.br/pt-br,22,0,0
+1715293413164,105,https://www.gov.br/,200,OK,Thread Group 1-5,text,true,,130837,231,5,5,https://www.gov.br/pt-br,22,0,0
+1715293413164,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-5,,true,,861,113,5,5,https://www.gov.br/,22,0,0
+1715293413186,83,https://www.gov.br/-1,200,OK,Thread Group 1-5,text,true,,129976,118,5,5,https://www.gov.br/pt-br,23,0,0
+1715293403993,9287,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-1,text,true,,186079,126,4,4,https://www.gov.br/fazenda/pt-br,9187,0,9142
+1715293413204,84,https://www.gov.br/,200,OK,Thread Group 1-54,text,true,,130832,231,4,4,https://www.gov.br/pt-br,23,0,0
+1715293413204,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-54,,true,,861,113,4,4,https://www.gov.br/,23,0,0
+1715293413227,61,https://www.gov.br/-1,200,OK,Thread Group 1-54,text,true,,129971,118,4,4,https://www.gov.br/pt-br,22,0,0
+1715293413280,67,https://www.gov.br/,200,OK,Thread Group 1-1,text,true,,130832,231,3,3,https://www.gov.br/pt-br,23,0,0
+1715293413280,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-1,,true,,861,113,3,3,https://www.gov.br/,23,0,0
+1715293413303,44,https://www.gov.br/-1,200,OK,Thread Group 1-1,text,true,,129971,118,3,3,https://www.gov.br/pt-br,23,0,0
+1715293406477,9291,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-57,text,true,,186077,126,2,2,https://www.gov.br/fazenda/pt-br,9188,0,9144
+1715293415768,67,https://www.gov.br/,200,OK,Thread Group 1-57,text,true,,130838,231,2,2,https://www.gov.br/pt-br,22,0,0
+1715293415768,22,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-57,,true,,861,113,2,2,https://www.gov.br/,22,0,0
+1715293415791,44,https://www.gov.br/-1,200,OK,Thread Group 1-57,text,true,,129977,118,2,2,https://www.gov.br/pt-br,22,0,0
+1715293402649,15528,https://www.correios.com.br/,200,OK,Thread Group 1-198,text,true,,136120,122,1,1,https://www.correios.com.br/,102,0,60
+1715293418178,114,https://www.gov.br/fazenda/pt-br,200,OK,Thread Group 1-198,text,true,,186077,126,1,1,https://www.gov.br/fazenda/pt-br,71,0,44
+1715293418292,67,https://www.gov.br/,200,OK,Thread Group 1-198,text,true,,130838,231,1,1,https://www.gov.br/pt-br,23,0,0
+1715293418292,23,https://www.gov.br/-0,301,Moved Permanently,Thread Group 1-198,,true,,861,113,1,1,https://www.gov.br/,23,0,0
+1715293418315,44,https://www.gov.br/-1,200,OK,Thread Group 1-198,text,true,,129977,118,1,1,https://www.gov.br/pt-br,24,0,0
